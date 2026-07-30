@@ -1,212 +1,128 @@
 # 🚀 AI Powered Workforce Performance Prediction & Intelligence Platform
 
-> **An Enterprise AI Platform for Workforce Analytics, Performance Prediction, Explainable AI, and Human-in-the-Loop Decision Intelligence**
+An enterprise-grade AI-powered workforce analytics platform that combines **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Explainable AI (XAI)**, and **Human-in-the-Loop (HITL)** decision intelligence to predict employee performance and generate contextual, policy-grounded recommendations.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![RAG](https://img.shields.io/badge/RAG-Enabled-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+> Developed as an MCA (Artificial Intelligence) Major Project.
 
 ---
 
-## 📌 Overview
+# 📖 Project Overview
 
-The **AI Powered Workforce Performance Prediction & Intelligence Platform** is an end-to-end enterprise AI application developed as part of my Master of Computer Applications (Artificial Intelligence) dissertation.
+Traditional employee performance evaluations are often manual, subjective, and reactive. This platform transforms workforce analytics into a predictive and explainable AI system by integrating data engineering, machine learning, enterprise security, and Generative AI.
 
-The platform transforms traditional HR analytics into an intelligent decision-support system by combining:
+The application enables HR teams, managers, and leadership to:
 
-- Predictive Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- Explainable AI (XAI)
-- Human-in-the-Loop (HITL)
-- Enterprise Role-Based Access Control (RBAC)
-- Interactive Analytics Dashboards
-
-Unlike traditional HR systems that rely on retrospective reports, this platform predicts employee performance, explains AI decisions using enterprise policies, and allows managers to validate AI recommendations before making final decisions.
+- Predict employee performance
+- Analyze workforce trends
+- Generate AI-powered recommendations
+- Review AI decisions before approval
+- Maintain enterprise-grade security with Role-Based Access Control (RBAC)
 
 ---
 
-# 🎯 Project Objectives
+# ✨ Key Features
 
-- Build an enterprise workforce analytics platform
-- Predict employee performance using Machine Learning
-- Compare multiple regression algorithms
-- Generate AI-powered explainable recommendations
-- Implement Retrieval-Augmented Generation (RAG)
-- Enable Human-in-the-Loop decision intelligence
-- Provide secure Role-Based Access Control (RBAC)
-- Deliver executive dashboards using Streamlit
+- 📊 Workforce Analytics Dashboard
+- 🤖 Employee Performance Prediction
+- 🧠 Explainable AI Recommendations
+- 📚 Retrieval-Augmented Generation (RAG)
+- 👨‍💼 Human-in-the-Loop (HITL) Decision Review
+- 🔒 Role-Based Access Control (RBAC)
+- 📈 Machine Learning Model Benchmarking
+- 📉 Feature Importance Analysis
+- 📑 Automated Report Generation
+- ✅ Automated Testing & Code Coverage
 
 ---
 
-# 🏗 High-Level Architecture
+# 🏗️ System Architecture
 
 ```
-
-                MySQL HR Database
-│
-▼
-ETL Pipeline
-│
-▼
-Parquet Data Lake
-│
-▼
-DuckDB Analytical Warehouse
-│
-▼
-Feature Engineering
-│
-▼
-Machine Learning Models
-│
-▼
-Prediction Engine
-│
-├──────────────┐
-▼              ▼
-RAG Pipeline   Analytics
-│              Dashboard
-▼
-FAISS Vector Store
-│
-▼
-Ollama Local LLM
-│
-▼
-Explainable AI
-│
-▼
-Human-in-the-Loop Review
-│
-▼
-Final Recommendation
-
+                      MySQL Database
+                             │
+                             ▼
+                     ETL Data Pipeline
+                             │
+                             ▼
+                 DuckDB Analytical Warehouse
+                             │
+                             ▼
+                  Feature Engineering Layer
+                             │
+                             ▼
+             Machine Learning Model Training
+                             │
+                             ▼
+                 Employee Performance Prediction
+                             │
+               ┌─────────────┴─────────────┐
+               ▼                           ▼
+      Workforce Analytics           AI Recommendation
+                                         │
+                                         ▼
+                          Retrieval-Augmented Generation
+                               (FAISS + LangChain)
+                                         │
+                                         ▼
+                              Ollama Local LLM
+                                         │
+                                         ▼
+                       Explainable Recommendation
+                                         │
+                                         ▼
+                         Human-in-the-Loop Review
+                                         │
+                                         ▼
+                             Streamlit Web Application
 ```
 
 ---
 
-# 🧠 AI Capabilities
+# 📂 Project Structure
 
-## Machine Learning
-
-Implemented and benchmarked multiple regression algorithms:
-
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- ElasticNet Regression
-- Decision Tree
-- Random Forest
-- XGBoost
-
-Performance evaluated using:
-
-- RMSE
-- MAE
-- R² Score
-- Cross Validation
-
----
-
-## Retrieval-Augmented Generation (RAG)
-
-The platform provides explainable AI recommendations by combining:
-
-- LangChain
-- FAISS Vector Database
-- Ollama
-- Enterprise HR Policies
-
-Knowledge Base includes:
-
-- Performance Policy
-- Promotion Policy
-- Competency Framework
-- Training Catalog
+```
+workforce-performance-prediction/
+│
+├── app/
+│   ├── main.py
+│   ├── login.py
+│   └── pages/
+│       ├── Analytics Dashboard
+│       ├── Prediction Dashboard
+│       ├── Human Review
+│       └── Developer Quality Dashboard
+│
+├── src/
+│   ├── ai/
+│   ├── config/
+│   ├── database/
+│   ├── evaluation/
+│   ├── features/
+│   ├── hitl/
+│   ├── inference/
+│   ├── models/
+│   ├── pipeline/
+│   ├── security/
+│   ├── training/
+│   └── validation/
+│
+├── knowledge_base/
+├── models/
+├── data/
+├── reports/
+├── tests/
+└── README.md
+```
 
 ---
 
-## Explainable AI
-
-Instead of only predicting a score, the platform explains:
-
-- Why the prediction was made
-- Which factors influenced it
-- Relevant HR policies
-- Recommended employee actions
-
----
-
-## Human-in-the-Loop (HITL)
-
-Managers can:
-
-- Review AI recommendations
-- Approve
-- Reject
-- Modify
-- Record audit decisions
-
-Responsible AI is maintained by ensuring humans remain in control.
-
----
-
-# 📊 Dashboards
-
-### Analytics Dashboard
-
-- Workforce KPIs
-- Department Performance
-- Attendance Analysis
-- Leave Analytics
-- Trend Analysis
-
-### Prediction Dashboard
-
-- Employee Performance Prediction
-- Feature Importance
-- Model Comparison
-- Performance Distribution
-
-### Human Review Dashboard
-
-- AI Recommendation Review
-- Approval Workflow
-- Decision Logging
-
-### Developer Quality Dashboard
-
-- Test Coverage
-- Pytest Results
-- Code Quality Metrics
-
----
-
-# 🔐 Security
-
-- Authentication
-- Password Hashing
-- Role-Based Access Control (RBAC)
-- Row-Level Security
-- Secure Database Access
-
-Supported Roles
-
-- Administrator
-- HR
-- Manager
-- Leadership
-
----
-
-# 🛠 Technology Stack
+# ⚙️ Technology Stack
 
 ## Backend
 
 - Python
 - SQLAlchemy
+- PyMySQL
 - Pandas
 - NumPy
 
@@ -217,10 +133,10 @@ Supported Roles
 
 ## Machine Learning
 
-- Scikit-Learn
+- Scikit-learn
 - XGBoost
 
-## AI
+## AI & Generative AI
 
 - LangChain
 - FAISS
@@ -235,44 +151,108 @@ Supported Roles
 ## Testing
 
 - Pytest
-- Coverage
+- Coverage.py
 
 ---
 
-# 📁 Project Structure
+# 🔄 Workflow
 
+1. Extract workforce data from MySQL.
+2. Validate database schema.
+3. Transform and engineer features.
+4. Build analytical warehouse in DuckDB.
+5. Train multiple regression models.
+6. Select the best-performing model.
+7. Predict employee performance.
+8. Retrieve HR policies using RAG.
+9. Generate explainable AI recommendations.
+10. Manager reviews recommendations through HITL.
+11. Display insights in Streamlit dashboards.
+
+---
+
+# 🤖 Machine Learning Models
+
+The platform benchmarks multiple regression algorithms:
+
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- ElasticNet Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+- XGBoost Regressor
+
+Evaluation Metrics:
+
+- RMSE
+- MAE
+- R² Score
+- Cross Validation
+
+---
+
+# 🧠 AI Capabilities
+
+The AI layer combines:
+
+- Local Large Language Models (Ollama)
+- LangChain orchestration
+- FAISS vector database
+- Enterprise HR knowledge base
+
+to produce explainable recommendations instead of black-box predictions.
+
+---
+
+# 🔐 Security
+
+The platform includes:
+
+- User Authentication
+- Role-Based Access Control (RBAC)
+- Session Management
+- Authorization Layer
+- Row-Level Data Access
+
+Supported Roles:
+
+- Administrator
+- HR
+- Leadership
+- Manager
+
+---
+
+# 🧪 Testing
+
+Automated testing covers:
+
+- Authentication
+- Session Management
+- Authorization
+- Database Validation
+- Model Training
+- Prediction Pipeline
+- Feature Engineering
+
+Run tests:
+
+```bash
+pytest
 ```
 
-app/
-pages/
-src/
-database/
-pipeline/
-training/
-inference/
-features/
-ai/
-rag/
-prompts/
-context/
-recommendation/
-report/
-security/
-validation/
-hitl/
-models/
-knowledge\_base/
-tests/
-reports/
-data/
+Generate coverage:
 
+```bash
+pytest --cov=src
 ```
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Installation
 
-## Clone Repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/christykiran-p/workforce-performance-prediction.git
@@ -280,7 +260,7 @@ git clone https://github.com/christykiran-p/workforce-performance-prediction.git
 cd workforce-performance-prediction
 ```
 
-## Install Dependencies
+Install dependencies:
 
 ```bash
 uv sync
@@ -291,10 +271,6 @@ or
 ```bash
 pip install -r ai_requirements.txt
 ```
-
----
-
-## Configure Environment
 
 Create a `.env` file:
 
@@ -310,9 +286,7 @@ GROQ_API_KEY=
 GOOGLE_API_KEY=
 ```
 
----
-
-## Run Application
+Run the application:
 
 ```bash
 streamlit run app/main.py
@@ -320,75 +294,25 @@ streamlit run app/main.py
 
 ---
 
-# 🧪 Testing
+# 📚 Documentation
 
-Run all tests
-
-```bash
-pytest
-```
-
-Generate coverage
-
-```bash
-pytest --cov=src
-```
-
----
-
-# 📈 Features
-
-- End-to-End ETL Pipeline
-- DuckDB Analytical Warehouse
-- Feature Engineering
-- Predictive Analytics
-- AI Recommendations
-- Explainable AI
-- Human-in-the-Loop
-- RBAC Security
-- Executive Dashboards
-- Automated Testing
-
----
-
-# 📚 Dissertation
-
-**Title**
-
-AI Powered Workforce Performance Prediction & Intelligence Platform Using Machine Learning, Retrieval-Augmented Generation (RAG), and Human-in-the-Loop Decision Intelligence
-
-Master of Computer Applications (Artificial Intelligence)
-
-Amrita Vishwa Vidyapeetham
+- 📖 MCA Dissertation
+- 📘 Project Tutorial
+- 🏗️ Architecture & Mermaid Diagrams
 
 ---
 
 # 🔮 Future Enhancements
 
-- Multi-Agent AI
-- LangGraph Workflow
+- Agentic AI Workflows (LangGraph)
 - Context Engineering
-- Skill Distillation
-- Agentic AI
-- MCP Integration
-- Real-time Streaming Analytics
+- Multi-Agent Collaboration
 - Cloud Deployment (AWS / Azure / GCP)
 - Kubernetes
 - CI/CD Pipeline
-
----
-
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to fork the repository and submit a Pull Request.
-
----
-
-# 📄 License
-
-This project is developed for academic and research purposes.
+- Model Monitoring
+- Continuous Learning
+- Enterprise Identity Integration
 
 ---
 
@@ -396,12 +320,12 @@ This project is developed for academic and research purposes.
 
 **Christy Kiran P**
 
-AI Product Manager | AI Engineer | Enterprise AI | Machine Learning | Generative AI | RAG | Agentic AI
+**Master of Computer Applications (Artificial Intelligence)**
+
+AI Product Management | Machine Learning | Generative AI | RAG | Explainable AI | Workforce Analytics
 
 GitHub: https://github.com/christykiran-p
 
-LinkedIn: *(Add your LinkedIn URL here)*
-
 ---
 
-⭐ If you found this project useful, consider giving it a Star.
+⭐ If you found this project useful, please consider giving it a star.
