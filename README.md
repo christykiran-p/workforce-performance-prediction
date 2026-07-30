@@ -289,6 +289,10 @@ Run the application:
 
 ```bash
 streamlit run app/main.py
+
+or
+
+python -m streamlit run app/main.py
 ```
 
 ---
