@@ -1,0 +1,195 @@
+﻿├── .coverage
+├── .env
+├── .gitignore
+├── .python-version
+├── ai_requirements.txt
+├── coverage.xml
+├── employee_analytics.csv
+├── project_structure.txt
+├── project_tree.txt
+├── pyproject.toml
+├── README.md
+├── test_llm.py
+├── test_rag.py
+├── test_retrieval.py
+├── test-results.xml
+├── uv.lock
+├── Workforce_System_All_Mermaid_Diagrams (1).md
+├── app
+│   ├── login.py
+│   ├── main.py
+│   ├── pages
+│   │   ├── 1_Analytics_Dashboard.py
+│   │   ├── 2_Prediction_Dashboard.py
+│   │   ├── developers_quality_dashboard.py
+├── data
+│   ├── processed
+│   │   ├── employee_analytics_dataset.parquet
+│   ├── raw
+│   │   ├── employee.parquet
+│   │   ├── employee_attendance.parquet
+│   │   ├── employee_performance.parquet
+│   │   ├── employee_reporting.parquet
+│   │   ├── leave_balance.parquet
+│   │   ├── org_structure.parquet
+│   ├── warehouse
+│   │   ├── workforce_analytics.duckdb
+├── htmlcov
+│   ├── .gitignore
+│   ├── class_index.html
+│   ├── coverage_html_cb_188fc9a4.js
+│   ├── favicon_32_cb_c827f16f.png
+│   ├── function_index.html
+│   ├── index.html
+│   ├── keybd_closed_cb_900cfef5.png
+│   ├── status.json
+│   ├── style_cb_5c747636.css
+│   ├── z_145eef247bfb46b6___init___py.html
+│   ├── z_2521ce7ac7542b75___init___py.html
+│   ├── z_2521ce7ac7542b75_train_models_py.html
+│   ├── z_4315773e874c333a___init___py.html
+│   ├── z_4315773e874c333a_predict_py.html
+│   ├── z_532385f02888fdd3___init___py.html
+│   ├── z_532385f02888fdd3_regression_models_py.html
+│   ├── z_67d056e3707ef46d___init___py.html
+│   ├── z_67d056e3707ef46d_mysql_connection_py.html
+│   ├── z_721810ebc2c600de___init___py.html
+│   ├── z_721810ebc2c600de_schema_validator_py.html
+│   ├── z_7d7f185da0222846___init___py.html
+│   ├── z_7d7f185da0222846_attendance_features_py.html
+│   ├── z_7d7f185da0222846_hierarchy_features_py.html
+│   ├── z_7d7f185da0222846_leave_features_py.html
+│   ├── z_7d7f185da0222846_performance_features_py.html
+│   ├── z_8d3e89a0f10a2fec___init___py.html
+│   ├── z_8d3e89a0f10a2fec_model_metrics_py.html
+│   ├── z_a44f0ac069e85531_test_feature_importance_py.html
+│   ├── z_a44f0ac069e85531_test_model_comparison_py.html
+│   ├── z_a44f0ac069e85531_test_mysql_connection_py.html
+│   ├── z_a44f0ac069e85531_test_schema_validator_py.html
+│   ├── z_a44f0ac069e85531_test_stage2_features_py.html
+│   ├── z_a44f0ac069e85531_test_stage2_pipeline_py.html
+│   ├── z_a44f0ac069e85531_test_stage3_models_py.html
+│   ├── z_a44f0ac069e85531_test_stage3_predictions_py.html
+│   ├── z_bbf6e357bd35b779___init___py.html
+│   ├── z_bbf6e357bd35b779_auth_py.html
+│   ├── z_bbf6e357bd35b779_authorization_py.html
+│   ├── z_bbf6e357bd35b779_data_access_py.html
+│   ├── z_bbf6e357bd35b779_password_utils_py.html
+│   ├── z_bbf6e357bd35b779_role_manager_py.html
+│   ├── z_bbf6e357bd35b779_session_manager_py.html
+├── knowledge_base
+│   ├── competency_framework.txt
+│   ├── performance_policy.txt
+│   ├── promotion_policy.txt
+│   ├── training_catalog.txt
+├── models
+│   ├── best_model.pkl
+│   ├── decision_tree.pkl
+│   ├── elasticnet_regression.pkl
+│   ├── lasso_regression.pkl
+│   ├── linear_regression.pkl
+│   ├── random_forest.pkl
+│   ├── ridge_regression.pkl
+│   ├── xgboost.pkl
+├── notebooks
+│   ├── 01_eda.ipynb
+│   ├── 02_feature_selection.ipynb
+│   ├── 03_model_comparison.ipynb
+│   ├── 04_xgboost_experiments.ipynb
+├── output
+│   ├── prediction_output.csv
+├── reports
+│   ├── coverage_history.csv
+│   ├── feature_importance.csv
+│   ├── model_comparison.csv
+│   ├── prediction_output.csv
+├── scripts
+│   ├── run_quality_checks.py
+├── src
+│   ├── __init__.py
+│   ├── ai
+│   │   ├── __init__.py
+│   │   ├── context
+│   │   │   ├── __init__.py
+│   │   │   ├── builder.py
+│   │   │   ├── employee.py
+│   │   │   ├── performance.py
+│   │   ├── explainability
+│   │   │   ├── __init__.py
+│   │   │   ├── explainer.py
+│   │   ├── llm
+│   │   │   ├── __init__.py
+│   │   │   ├── base.py
+│   │   │   ├── factory.py
+│   │   │   ├── ollama_client.py
+│   │   ├── prompts
+│   │   │   ├── __init__.py
+│   │   │   ├── prompt_builder.py
+│   │   │   ├── summary_prompt.py
+│   │   │   ├── system_prompt.py
+│   │   │   ├── templates.py
+│   │   ├── rag
+│   │   │   ├── __init__.py
+│   │   │   ├── document_loader.py
+│   │   │   ├── embedder.py
+│   │   │   ├── rag_service.py
+│   │   │   ├── retriever.py
+│   │   │   ├── vector_store.py
+│   │   ├── recommendation
+│   │   │   ├── __init__.py
+│   │   │   ├── recommender.py
+│   │   ├── report
+│   │   │   ├── __init__.py
+│   │   │   ├── report_generator.py
+│   ├── config
+│   │   ├── settings.py
+│   ├── database
+│   │   ├── __init__.py
+│   │   ├── mysql_connection.py
+│   ├── evaluation
+│   │   ├── __init__.py
+│   │   ├── model_metrics.py
+│   ├── features
+│   │   ├── __init__.py
+│   │   ├── attendance_features.py
+│   │   ├── hierarchy_features.py
+│   │   ├── leave_features.py
+│   │   ├── performance_features.py
+│   ├── inference
+│   │   ├── __init__.py
+│   │   ├── predict.py
+│   ├── models
+│   │   ├── __init__.py
+│   │   ├── regression_models.py
+│   ├── pipeline
+│   │   ├── build_dataset.py
+│   │   ├── create_duckdb_warehouse.py
+│   │   ├── extract_data.py
+│   │   ├── query_duckdb_warehouse.py
+│   │   ├── validate_dataset_quality.py
+│   ├── security
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── authorization.py
+│   │   ├── data_access.py
+│   │   ├── password_utils.py
+│   │   ├── role_manager.py
+│   │   ├── session_manager.py
+│   ├── training
+│   │   ├── __init__.py
+│   │   ├── train_models.py
+│   ├── validation
+│   │   ├── __init__.py
+│   │   ├── schema_validator.py
+├── tests
+│   ├── test_feature_importance.py
+│   ├── test_model_comparison.py
+│   ├── test_mysql_connection.py
+│   ├── test_schema_validator.py
+│   ├── test_stage2_features.py
+│   ├── test_stage2_pipeline.py
+│   ├── test_stage3_models.py
+│   ├── test_stage3_predictions.py
+│   ├── test_stage3b_authorization.py
+│   ├── test_stage3b_security.py
+│   ├── test_stage3b_session.py

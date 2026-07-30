@@ -1,0 +1,540 @@
+feature,coefficient,absolute_coefficient
+numeric__avg_bonus_percentage,0.16809210192430926,0.16809210192430926
+numeric__experience_years,0.03708001594009273,0.03708001594009273
+numeric__pass_out_year,-0.034186062457605505,0.034186062457605505
+numeric__department_id,0.021204797118832934,0.021204797118832934
+numeric__band_level,0.017851932094417735,0.017851932094417735
+categorical__band_name_Team Lead,0.008188959920579908,0.008188959920579908
+numeric__team_size,0.007798044746612885,0.007798044746612885
+numeric__experience_months,0.0036814729937485334,0.0036814729937485334
+numeric__avg_total_leave_balance,-0.002585888696999041,0.002585888696999041
+numeric__total_sick_leave_used,0.001014460991616982,0.001014460991616982
+numeric__total_leave_used,0.0009830231568937334,0.0009830231568937334
+numeric__total_privileged_leave_used,0.0009582413099989988,0.0009582413099989988
+numeric__attendance_rate,0.000309239068923151,0.000309239068923151
+numeric__avg_working_hours,0.00030241197117269493,0.00030241197117269493
+numeric__annual_salary,0.0,0.0
+numeric__total_overtime_hours,0.0,0.0
+categorical__job_title_Vice President - Engineering,0.0,0.0
+numeric__total_lop_days,0.0,0.0
+categorical__gender_Female,0.0,0.0
+categorical__gender_Male,-0.0,0.0
+categorical__blood_group_A+,0.0,0.0
+categorical__blood_group_A-,0.0,0.0
+categorical__blood_group_AB+,-0.0,0.0
+categorical__blood_group_B+,-0.0,0.0
+categorical__blood_group_B-,0.0,0.0
+categorical__blood_group_O+,0.0,0.0
+categorical__blood_group_O-,-0.0,0.0
+categorical__job_title_Team Lead,0.0,0.0
+categorical__marital_status_Single,0.0,0.0
+categorical__highest_education_Bachelor,-0.0,0.0
+categorical__highest_education_Master,0.0,0.0
+categorical__specialization_BTech / BCA,0.0,0.0
+categorical__specialization_BTech / MBA,-0.0,0.0
+categorical__specialization_MBA - Business Administration,0.0,0.0
+categorical__educational_institution_Amrita University,0.0,0.0
+categorical__educational_institution_Anna University,-0.0,0.0
+categorical__educational_institution_Bangalore University,-0.0,0.0
+categorical__educational_institution_Christ University,0.0,0.0
+categorical__educational_institution_Delhi University,0.0,0.0
+categorical__educational_institution_IIM Bangalore,0.0,0.0
+categorical__educational_institution_IIT Madras,-0.0,0.0
+categorical__educational_institution_PES University,0.0,0.0
+categorical__educational_institution_St Josephs Institute of Management,-0.0,0.0
+categorical__educational_institution_VTU Belagavi,-0.0,0.0
+categorical__experience_category_Junior,-0.0,0.0
+categorical__experience_category_Leadership,0.0,0.0
+categorical__experience_category_Mid Level,0.0,0.0
+categorical__experience_category_Senior,-0.0,0.0
+categorical__city_Bangalore,0.0,0.0
+categorical__state_Karnataka,0.0,0.0
+categorical__country_India,0.0,0.0
+categorical__nationality_Indian,0.0,0.0
+categorical__department_Delivery,0.0,0.0
+categorical__department_Finance,-0.0,0.0
+categorical__department_Governance,0.0,0.0
+categorical__department_Human Resources,0.0,0.0
+categorical__department_Marketing,0.0,0.0
+categorical__department_Operations,0.0,0.0
+categorical__department_Procurement,0.0,0.0
+categorical__department_Product,0.0,0.0
+categorical__department_Sales,0.0,0.0
+categorical__department_Technology,-0.0,0.0
+categorical__functional_department_Brand & Growth,0.0,0.0
+categorical__functional_department_Corporate Finance,-0.0,0.0
+categorical__functional_department_Data & AI,-0.0,0.0
+categorical__functional_department_Engineering,-0.0,0.0
+categorical__functional_department_Information Security,0.0,0.0
+categorical__functional_department_Infrastructure & Platform,-0.0,0.0
+categorical__functional_department_People Operations,0.0,0.0
+categorical__functional_department_Product Management,0.0,0.0
+categorical__functional_department_Program Delivery,0.0,0.0
+categorical__functional_department_Quality Engineering,-0.0,0.0
+categorical__functional_department_Revenue Operations,0.0,0.0
+categorical__functional_department_Risk & Compliance,0.0,0.0
+categorical__functional_department_Transport & Logistics,0.0,0.0
+categorical__functional_department_Vendor Management,0.0,0.0
+categorical__business_unit_Analytics Platforms,-0.0,0.0
+categorical__business_unit_Cloud & Platform Operations,-0.0,0.0
+categorical__business_unit_Cyber Security Operations,0.0,0.0
+categorical__business_unit_Enterprise Governance,0.0,0.0
+categorical__business_unit_Enterprise Systems,-0.0,0.0
+categorical__business_unit_Financial Operations,-0.0,0.0
+categorical__business_unit_Marketing Operations,0.0,0.0
+categorical__business_unit_Procurement Operations,0.0,0.0
+categorical__business_unit_Product Strategy,0.0,0.0
+categorical__business_unit_Project Management,0.0,0.0
+categorical__business_unit_Sales Operations,0.0,0.0
+categorical__business_unit_Supply Chain Operations,0.0,0.0
+categorical__business_unit_Testing Services,-0.0,0.0
+categorical__business_unit_Workforce Management,0.0,0.0
+categorical__division_Business Growth,0.0,0.0
+categorical__division_Compliance,0.0,0.0
+categorical__division_Data Intelligence,-0.0,0.0
+categorical__division_Delivery Operations,0.0,0.0
+categorical__division_Digital Marketing,0.0,0.0
+categorical__division_Enterprise Infrastructure,-0.0,0.0
+categorical__division_Finance,-0.0,0.0
+categorical__division_HR Operations,0.0,0.0
+categorical__division_Logistics,0.0,0.0
+categorical__division_Product Delivery,0.0,0.0
+categorical__division_QA Delivery,-0.0,0.0
+categorical__division_Security Governance,0.0,0.0
+categorical__division_Software Delivery,-0.0,0.0
+categorical__division_Sourcing,0.0,0.0
+categorical__sub_division_AI & Analytics,-0.0,0.0
+categorical__sub_division_Application Development,-0.0,0.0
+categorical__sub_division_Campaign Operations,0.0,0.0
+categorical__sub_division_Client Acquisition,0.0,0.0
+categorical__sub_division_Finance Operations,-0.0,0.0
+categorical__sub_division_PMO,0.0,0.0
+categorical__sub_division_People Services,0.0,0.0
+categorical__sub_division_Platform Services,-0.0,0.0
+categorical__sub_division_Product Operations,0.0,0.0
+categorical__sub_division_Risk Operations,0.0,0.0
+categorical__sub_division_Security Operations,0.0,0.0
+categorical__sub_division_Supplier Operations,0.0,0.0
+categorical__sub_division_Test Automation,-0.0,0.0
+categorical__sub_division_Transport Operations,0.0,0.0
+categorical__team_name_Data Team,-0.0,0.0
+categorical__team_name_Delivery Team,0.0,0.0
+categorical__team_name_Engineering Team,-0.0,0.0
+categorical__team_name_Finance Team,-0.0,0.0
+categorical__team_name_Governance Team,0.0,0.0
+categorical__team_name_HR Team,0.0,0.0
+categorical__team_name_Infrastructure Team,-0.0,0.0
+categorical__team_name_Logistics Team,0.0,0.0
+categorical__team_name_Marketing Team,0.0,0.0
+categorical__team_name_Procurement Team,0.0,0.0
+categorical__team_name_Product Team,0.0,0.0
+categorical__team_name_QA Team,-0.0,0.0
+categorical__team_name_Sales Team,0.0,0.0
+categorical__team_name_Security Team,0.0,0.0
+categorical__band_name_AVP,0.0,0.0
+categorical__band_name_Associate,-0.0,0.0
+categorical__band_name_Associate Director,-0.0,0.0
+categorical__band_name_Director,-0.0,0.0
+categorical__band_name_Junior Associate,-0.0,0.0
+categorical__band_name_Manager,0.0,0.0
+categorical__band_name_President,0.0,0.0
+categorical__band_name_Senior Associate,0.0,0.0
+categorical__band_name_Senior Director,-0.0,0.0
+categorical__band_name_Senior Manager,0.0,0.0
+categorical__band_name_Senior VP,-0.0,0.0
+categorical__band_name_VP,0.0,0.0
+categorical__job_title_AI/ML Engineer,0.0,0.0
+categorical__job_title_AI/ML Manager,0.0,0.0
+categorical__job_title_API Developer,0.0,0.0
+categorical__job_title_API Lead,-0.0,0.0
+categorical__job_title_Accountant,-0.0,0.0
+categorical__job_title_Application Lead,0.0,0.0
+categorical__job_title_Application Manager,-0.0,0.0
+categorical__job_title_Application Security Engineer,-0.0,0.0
+categorical__job_title_Application Security Lead,0.0,0.0
+categorical__job_title_Application Security Manager,0.0,0.0
+categorical__job_title_Application Support Engineer,-0.0,0.0
+categorical__job_title_Architecture Lead,0.0,0.0
+categorical__job_title_Associate Director - Data & AI,-0.0,0.0
+categorical__job_title_Associate Director - Delivery,-0.0,0.0
+categorical__job_title_Associate Director - Enterprise Solutions,0.0,0.0
+categorical__job_title_Associate Director - Human Resources,0.0,0.0
+categorical__job_title_Associate Director - Innovation,-0.0,0.0
+categorical__job_title_Associate Director - Marketing,-0.0,0.0
+categorical__job_title_Associate Director - Operations,-0.0,0.0
+categorical__job_title_Associate Director - Product,0.0,0.0
+categorical__job_title_Associate Director - Strategy,0.0,0.0
+categorical__job_title_Associate Director - Technology,-0.0,0.0
+categorical__job_title_Associate Vice President - Customer Success,0.0,0.0
+categorical__job_title_Associate Vice President - Data & AI,0.0,0.0
+categorical__job_title_Associate Vice President - Delivery,-0.0,0.0
+categorical__job_title_Associate Vice President - Engineering,0.0,0.0
+categorical__job_title_Associate Vice President - Enterprise Solutions,0.0,0.0
+categorical__job_title_Associate Vice President - Finance,0.0,0.0
+categorical__job_title_Associate Vice President - Human Resources,0.0,0.0
+categorical__job_title_Associate Vice President - Innovation,0.0,0.0
+categorical__job_title_Associate Vice President - Marketing,0.0,0.0
+categorical__job_title_Associate Vice President - Operations,-0.0,0.0
+categorical__job_title_Associate Vice President - Product,-0.0,0.0
+categorical__job_title_Associate Vice President - Sales,-0.0,0.0
+categorical__job_title_Associate Vice President - Strategy,-0.0,0.0
+categorical__job_title_Associate Vice President - Technology,-0.0,0.0
+categorical__job_title_Automation Testing Lead,-0.0,0.0
+categorical__job_title_BI Developer,-0.0,0.0
+categorical__job_title_BI Lead,0.0,0.0
+categorical__job_title_BI Manager,0.0,0.0
+categorical__job_title_Backend Engineer,0.0,0.0
+categorical__job_title_Backend Lead,0.0,0.0
+categorical__job_title_Backup & Recovery Manager,0.0,0.0
+categorical__job_title_Brand Manager,-0.0,0.0
+categorical__job_title_Business Development Lead,0.0,0.0
+categorical__job_title_Campaign Manager,-0.0,0.0
+categorical__job_title_Change Management Lead,-0.0,0.0
+categorical__job_title_Client Relationship Executive,-0.0,0.0
+categorical__job_title_Client Relationship Manager,-0.0,0.0
+categorical__job_title_Cloud Engineer,-0.0,0.0
+categorical__job_title_Cloud Operations Lead,0.0,0.0
+categorical__job_title_Cloud Operations Manager,0.0,0.0
+categorical__job_title_Cloud Security Engineer,-0.0,0.0
+categorical__job_title_Cloud Security Lead,0.0,0.0
+categorical__job_title_Cloud Security Manager,0.0,0.0
+categorical__job_title_Cold Chain Operations Manager,-0.0,0.0
+categorical__job_title_Compliance Analyst,-0.0,0.0
+categorical__job_title_Compliance Manager,-0.0,0.0
+categorical__job_title_Customer Success Lead,0.0,0.0
+categorical__job_title_Customer Success Manager,-0.0,0.0
+categorical__job_title_Cyber Security Analyst,-0.0,0.0
+categorical__job_title_Cyber Security Lead,-0.0,0.0
+categorical__job_title_Cyber Security Manager,0.0,0.0
+categorical__job_title_Data Analyst,-0.0,0.0
+categorical__job_title_Data Analytics Lead,0.0,0.0
+categorical__job_title_Data Analytics Manager,-0.0,0.0
+categorical__job_title_Data Engineer,-0.0,0.0
+categorical__job_title_Data Engineering Lead,0.0,0.0
+categorical__job_title_Database Administration Lead,0.0,0.0
+categorical__job_title_Database Administration Manager,0.0,0.0
+categorical__job_title_Database Administrator,-0.0,0.0
+categorical__job_title_Database Lead,0.0,0.0
+categorical__job_title_Delivery Lead,0.0,0.0
+categorical__job_title_Delivery Operations Lead,-0.0,0.0
+categorical__job_title_Delivery Operations Manager,0.0,0.0
+categorical__job_title_DevOps Lead,-0.0,0.0
+categorical__job_title_DevOps Manager,0.0,0.0
+categorical__job_title_Digital Marketing Lead,0.0,0.0
+categorical__job_title_Digital Marketing Manager,0.0,0.0
+categorical__job_title_Digital Marketing Specialist,-0.0,0.0
+categorical__job_title_Director - Data & AI,-0.0,0.0
+categorical__job_title_Director - Enterprise Solutions,-0.0,0.0
+categorical__job_title_Director - Marketing,-0.0,0.0
+categorical__job_title_Director - Operations,-0.0,0.0
+categorical__job_title_Director - Technology,-0.0,0.0
+categorical__job_title_Dispatch Lead,0.0,0.0
+categorical__job_title_Dispatch Manager,0.0,0.0
+categorical__job_title_Distribution Manager,-0.0,0.0
+categorical__job_title_Driver Operations Manager,-0.0,0.0
+categorical__job_title_Endpoint Management Manager,-0.0,0.0
+categorical__job_title_Engineering Lead,-0.0,0.0
+categorical__job_title_Engineering Manager,-0.0,0.0
+categorical__job_title_Enterprise Applications Manager,0.0,0.0
+categorical__job_title_Export Operations Manager,0.0,0.0
+categorical__job_title_Finance Executive,-0.0,0.0
+categorical__job_title_Finance Lead,0.0,0.0
+categorical__job_title_Finance Manager,-0.0,0.0
+categorical__job_title_Fleet Coordinator,0.0,0.0
+categorical__job_title_Fleet Manager,0.0,0.0
+categorical__job_title_Fleet Operations Lead,0.0,0.0
+categorical__job_title_Freight Operations Lead,-0.0,0.0
+categorical__job_title_Freight Operations Manager,-0.0,0.0
+categorical__job_title_Frontend Engineer,-0.0,0.0
+categorical__job_title_Full Stack Engineer,-0.0,0.0
+categorical__job_title_Full Stack Lead,-0.0,0.0
+categorical__job_title_Functional Consultant,-0.0,0.0
+categorical__job_title_Functional Lead,-0.0,0.0
+categorical__job_title_GRC Analyst,-0.0,0.0
+categorical__job_title_GRC Lead,-0.0,0.0
+categorical__job_title_GenAI Lead,0.0,0.0
+categorical__job_title_Governance Risk & Compliance (GRC) Manager,0.0,0.0
+categorical__job_title_HR Executive,-0.0,0.0
+categorical__job_title_HR Lead,-0.0,0.0
+categorical__job_title_HR Manager,-0.0,0.0
+categorical__job_title_IAM Analyst,-0.0,0.0
+categorical__job_title_IAM Lead,0.0,0.0
+categorical__job_title_IT Support Engineer,0.0,0.0
+categorical__job_title_IT Support Lead,-0.0,0.0
+categorical__job_title_Identity & Access Management Manager,0.0,0.0
+categorical__job_title_Import Operations Manager,-0.0,0.0
+categorical__job_title_Information Security Analyst,-0.0,0.0
+categorical__job_title_Information Security Manager,-0.0,0.0
+categorical__job_title_Infrastructure Engineer,0.0,0.0
+categorical__job_title_Infrastructure Lead,0.0,0.0
+categorical__job_title_Infrastructure Manager,0.0,0.0
+categorical__job_title_Innovation Manager,0.0,0.0
+categorical__job_title_Integration Engineer,0.0,0.0
+categorical__job_title_Integration Lead,-0.0,0.0
+categorical__job_title_Junior AI/ML Engineer,0.0,0.0
+categorical__job_title_Junior API Developer,-0.0,0.0
+categorical__job_title_Junior Accountant,0.0,0.0
+categorical__job_title_Junior Automation Test Engineer,-0.0,0.0
+categorical__job_title_Junior BI Developer,0.0,0.0
+categorical__job_title_Junior Backend Developer,-0.0,0.0
+categorical__job_title_Junior Business Analyst,0.0,0.0
+categorical__job_title_Junior Business Development Executive,-0.0,0.0
+categorical__job_title_Junior Cyber Security Analyst,-0.0,0.0
+categorical__job_title_Junior Data Analyst,0.0,0.0
+categorical__job_title_Junior Database Administrator,-0.0,0.0
+categorical__job_title_Junior DevOps Engineer,-0.0,0.0
+categorical__job_title_Junior Dispatch Coordinator,-0.0,0.0
+categorical__job_title_Junior Finance Executive,-0.0,0.0
+categorical__job_title_Junior Frontend Developer,0.0,0.0
+categorical__job_title_Junior Functional Consultant,-0.0,0.0
+categorical__job_title_Junior GRC Analyst,-0.0,0.0
+categorical__job_title_Junior HR Executive,-0.0,0.0
+categorical__job_title_Junior IAM Analyst,0.0,0.0
+categorical__job_title_Junior IT Support Engineer,-0.0,0.0
+categorical__job_title_Junior Information Security Analyst,0.0,0.0
+categorical__job_title_Junior Integration Developer,0.0,0.0
+categorical__job_title_Junior Linux Administrator,-0.0,0.0
+categorical__job_title_Junior Manual Test Engineer,0.0,0.0
+categorical__job_title_Junior Mobile App Developer,-0.0,0.0
+categorical__job_title_Junior Network Engineer,-0.0,0.0
+categorical__job_title_Junior Operations Coordinator,-0.0,0.0
+categorical__job_title_Junior PMO Analyst,0.0,0.0
+categorical__job_title_Junior Payroll Executive,0.0,0.0
+categorical__job_title_Junior Platform Engineer,0.0,0.0
+categorical__job_title_Junior Procurement Executive,0.0,0.0
+categorical__job_title_Junior Product Analyst,0.0,0.0
+categorical__job_title_Junior QA Engineer,-0.0,0.0
+categorical__job_title_Junior Reporting Analyst,-0.0,0.0
+categorical__job_title_Junior SOC Analyst,0.0,0.0
+categorical__job_title_Junior Sales Executive,0.0,0.0
+categorical__job_title_Junior Service Desk Analyst,-0.0,0.0
+categorical__job_title_Junior Supply Chain Analyst,-0.0,0.0
+categorical__job_title_Junior System Administrator,-0.0,0.0
+categorical__job_title_Junior Technical Consultant,-0.0,0.0
+categorical__job_title_Junior Technical Support Engineer,-0.0,0.0
+categorical__job_title_Junior Windows Administrator,-0.0,0.0
+categorical__job_title_Key Account Manager,-0.0,0.0
+categorical__job_title_Last Mile Operations Manager,0.0,0.0
+categorical__job_title_Learning & Development Manager,0.0,0.0
+categorical__job_title_Linux Administration Lead,0.0,0.0
+categorical__job_title_Linux Administrator,0.0,0.0
+categorical__job_title_Logistics Executive,-0.0,0.0
+categorical__job_title_Logistics Lead,0.0,0.0
+categorical__job_title_Logistics Manager,-0.0,0.0
+categorical__job_title_MLOps Engineer,-0.0,0.0
+categorical__job_title_MLOps Lead,-0.0,0.0
+categorical__job_title_Management Trainee,-0.0,0.0
+categorical__job_title_Manager,-0.0,0.0
+categorical__job_title_Manual Test Engineer,-0.0,0.0
+categorical__job_title_Manual Testing Lead,0.0,0.0
+categorical__job_title_Marketing Executive,-0.0,0.0
+categorical__job_title_Marketing Lead,0.0,0.0
+categorical__job_title_Marketing Manager,0.0,0.0
+categorical__job_title_Mobile App Lead,-0.0,0.0
+categorical__job_title_Mobile Application Developer,0.0,0.0
+categorical__job_title_Mobility Operations Manager,-0.0,0.0
+categorical__job_title_Network Administration Manager,-0.0,0.0
+categorical__job_title_Network Lead,-0.0,0.0
+categorical__job_title_Network Security Engineer,0.0,0.0
+categorical__job_title_Network Security Manager,-0.0,0.0
+categorical__job_title_Operations Analyst,0.0,0.0
+categorical__job_title_Operations Lead,-0.0,0.0
+categorical__job_title_Operations Manager,0.0,0.0
+categorical__job_title_PMO Analyst,-0.0,0.0
+categorical__job_title_PMO Lead,0.0,0.0
+categorical__job_title_Payroll Executive,0.0,0.0
+categorical__job_title_Payroll Lead,0.0,0.0
+categorical__job_title_Payroll Manager,-0.0,0.0
+categorical__job_title_Performance Test Engineer,-0.0,0.0
+categorical__job_title_Performance Testing Lead,-0.0,0.0
+categorical__job_title_Platform Engineer,0.0,0.0
+categorical__job_title_Platform Engineering Lead,-0.0,0.0
+categorical__job_title_Platform Manager,-0.0,0.0
+categorical__job_title_Port Operations Manager,0.0,0.0
+categorical__job_title_President - Engineering,0.0,0.0
+categorical__job_title_President - Enterprise Solutions,0.0,0.0
+categorical__job_title_President - Finance,-0.0,0.0
+categorical__job_title_President - Global Business,0.0,0.0
+categorical__job_title_President - Human Resources,0.0,0.0
+categorical__job_title_President - Innovation,-0.0,0.0
+categorical__job_title_President - Marketing,-0.0,0.0
+categorical__job_title_President - Product,-0.0,0.0
+categorical__job_title_President - Sales,0.0,0.0
+categorical__job_title_President - Strategy,-0.0,0.0
+categorical__job_title_Procurement Executive,0.0,0.0
+categorical__job_title_Procurement Manager,0.0,0.0
+categorical__job_title_Product Analyst,0.0,0.0
+categorical__job_title_Product Lead,-0.0,0.0
+categorical__job_title_Product Manager,0.0,0.0
+categorical__job_title_Program Manager,-0.0,0.0
+categorical__job_title_Project Lead,-0.0,0.0
+categorical__job_title_Project Manager,-0.0,0.0
+categorical__job_title_QA Engineer,-0.0,0.0
+categorical__job_title_Quality Assurance Manager,-0.0,0.0
+categorical__job_title_RPA Lead,0.0,0.0
+categorical__job_title_Regional Sales Lead,-0.0,0.0
+categorical__job_title_Regional Sales Manager,-0.0,0.0
+categorical__job_title_Release Management Lead,-0.0,0.0
+categorical__job_title_Reporting Analyst,0.0,0.0
+categorical__job_title_Reporting Manager,0.0,0.0
+categorical__job_title_Risk Analyst,-0.0,0.0
+categorical__job_title_Risk Management Lead,0.0,0.0
+categorical__job_title_Risk Management Manager,0.0,0.0
+categorical__job_title_SOC Analyst,0.0,0.0
+categorical__job_title_SOC Lead,0.0,0.0
+categorical__job_title_SOC Manager,0.0,0.0
+categorical__job_title_Sales Executive,0.0,0.0
+categorical__job_title_Sales Lead,0.0,0.0
+categorical__job_title_Sales Manager,0.0,0.0
+categorical__job_title_Security Lead,-0.0,0.0
+categorical__job_title_Security Manager,0.0,0.0
+categorical__job_title_Security Operations Manager,-0.0,0.0
+categorical__job_title_Security Test Engineer,0.0,0.0
+categorical__job_title_Security Testing Lead,0.0,0.0
+categorical__job_title_Senior AI/ML Engineer,-0.0,0.0
+categorical__job_title_Senior API Developer,0.0,0.0
+categorical__job_title_Senior Accountant,0.0,0.0
+categorical__job_title_Senior Application Security Engineer,-0.0,0.0
+categorical__job_title_Senior Application Support Engineer,0.0,0.0
+categorical__job_title_Senior BI Developer,-0.0,0.0
+categorical__job_title_Senior Backend Engineer,-0.0,0.0
+categorical__job_title_Senior Business Analyst,0.0,0.0
+categorical__job_title_Senior Business Development Executive,0.0,0.0
+categorical__job_title_Senior Cloud Engineer,-0.0,0.0
+categorical__job_title_Senior Cloud Security Engineer,-0.0,0.0
+categorical__job_title_Senior Compliance Analyst,0.0,0.0
+categorical__pf_Yes,0.0,0.0
+categorical__job_title_Senior Cyber Security Analyst,-0.0,0.0
+categorical__job_title_Senior Data Analyst,0.0,0.0
+categorical__job_title_Senior Data Engineer,0.0,0.0
+categorical__job_title_Senior Database Administrator,0.0,0.0
+categorical__job_title_Senior Delivery Analyst,0.0,0.0
+categorical__job_title_Senior Digital Marketing Specialist,0.0,0.0
+categorical__job_title_Senior Director - Customer Success,-0.0,0.0
+categorical__job_title_Senior Director - Data & AI,-0.0,0.0
+categorical__job_title_Senior Director - Delivery,-0.0,0.0
+categorical__job_title_Senior Director - Enterprise Solutions,-0.0,0.0
+categorical__job_title_Senior Director - Finance,0.0,0.0
+categorical__job_title_Senior Director - Human Resources,0.0,0.0
+categorical__job_title_Senior Director - Marketing,0.0,0.0
+categorical__job_title_Senior Director - Operations,-0.0,0.0
+categorical__job_title_Senior Director - Product,0.0,0.0
+categorical__job_title_Senior Director - Sales,-0.0,0.0
+categorical__job_title_Senior Dispatch Coordinator,-0.0,0.0
+categorical__job_title_Senior Finance Executive,0.0,0.0
+categorical__job_title_Senior Fleet Coordinator,0.0,0.0
+categorical__job_title_Senior Freight Coordinator,0.0,0.0
+categorical__job_title_Senior Frontend Engineer,-0.0,0.0
+categorical__job_title_Senior Full Stack Engineer,0.0,0.0
+categorical__job_title_Senior Functional Consultant,0.0,0.0
+categorical__job_title_Senior GRC Analyst,0.0,0.0
+categorical__job_title_Senior GenAI Engineer,-0.0,0.0
+categorical__job_title_Senior HR Executive,-0.0,0.0
+categorical__job_title_Senior IAM Analyst,-0.0,0.0
+categorical__job_title_Senior IT Support Engineer,-0.0,0.0
+categorical__job_title_Senior Integration Engineer,0.0,0.0
+categorical__job_title_Senior Logistics Executive,0.0,0.0
+categorical__job_title_Senior MLOps Engineer,0.0,0.0
+categorical__job_title_Senior Manager - Customer Success,-0.0,0.0
+categorical__job_title_Senior Manager - Data & AI,-0.0,0.0
+categorical__job_title_Senior Manager - Delivery,0.0,0.0
+categorical__job_title_Senior Manager - Engineering,0.0,0.0
+categorical__job_title_Senior Manager - Enterprise Solutions,-0.0,0.0
+categorical__job_title_Senior Manager - Finance,0.0,0.0
+categorical__job_title_Senior Manager - Innovation,0.0,0.0
+categorical__job_title_Senior Manager - Marketing,0.0,0.0
+categorical__job_title_Senior Manager - Operations,-0.0,0.0
+categorical__job_title_Senior Manager - Product,-0.0,0.0
+categorical__job_title_Senior Manager - Strategy,0.0,0.0
+categorical__job_title_Senior Manager - Technology,0.0,0.0
+categorical__job_title_Senior Manager - Transport and Logistics,0.0,0.0
+categorical__job_title_Senior Marketing Executive,0.0,0.0
+categorical__job_title_Senior Mobile Application Developer,0.0,0.0
+categorical__job_title_Senior Network Engineer,0.0,0.0
+categorical__job_title_Senior Network Security Engineer,-0.0,0.0
+categorical__job_title_Senior Operations Analyst,-0.0,0.0
+categorical__job_title_Senior Operations Coordinator,0.0,0.0
+categorical__job_title_Senior PMO Analyst,0.0,0.0
+categorical__job_title_Senior Payroll Executive,-0.0,0.0
+categorical__job_title_Senior Performance Test Engineer,-0.0,0.0
+categorical__job_title_Senior Platform Engineer,-0.0,0.0
+categorical__job_title_Senior Procurement Executive,0.0,0.0
+categorical__job_title_Senior QA Engineer,-0.0,0.0
+categorical__job_title_Senior RPA Developer,-0.0,0.0
+categorical__job_title_Senior Reporting Analyst,0.0,0.0
+categorical__job_title_Senior Risk Analyst,0.0,0.0
+categorical__job_title_Senior SOC Analyst,0.0,0.0
+categorical__job_title_Senior Sales Executive,0.0,0.0
+categorical__job_title_Senior Security Test Engineer,0.0,0.0
+categorical__job_title_Senior Service Desk Analyst,-0.0,0.0
+categorical__job_title_Senior Shipping Executive,-0.0,0.0
+categorical__job_title_Senior Site Reliability Engineer,-0.0,0.0
+categorical__job_title_Senior Software Engineer,0.0,0.0
+categorical__job_title_Senior Customer Success Specialist,-0.0,0.0
+categorical__job_title_Senior Supply Chain Analyst,-0.0,0.0
+categorical__job_title_Senior System Administrator,0.0,0.0
+categorical__job_title_Senior Talent Acquisition Specialist,0.0,0.0
+categorical__job_title_Senior Technical Consultant,0.0,0.0
+categorical__job_title_Senior Technical Support Engineer,0.0,0.0
+categorical__job_title_Senior Transport Executive,0.0,0.0
+categorical__job_title_Senior Vice President - Customer Success,0.0,0.0
+categorical__job_title_Senior Vice President - Data & AI,-0.0,0.0
+categorical__job_title_Senior Vice President - Delivery,0.0,0.0
+categorical__job_title_Senior Vice President - Engineering,0.0,0.0
+categorical__job_title_Senior Vice President - Enterprise Solutions,-0.0,0.0
+categorical__job_title_Senior Vice President - Finance,-0.0,0.0
+categorical__job_title_Senior Vice President - Human Resources,-0.0,0.0
+categorical__job_title_Senior Vice President - Innovation,0.0,0.0
+categorical__job_title_Senior Vice President - Sales,-0.0,0.0
+categorical__job_title_Senior Vice President - Strategy,-0.0,0.0
+categorical__job_title_Senior Vice President - Technology,0.0,0.0
+categorical__job_title_Senior Warehouse Executive,-0.0,0.0
+categorical__job_title_Server Administration Manager,-0.0,0.0
+categorical__job_title_Service Delivery Manager,-0.0,0.0
+categorical__job_title_Service Desk Manager,-0.0,0.0
+categorical__job_title_Shipping Operations Lead,0.0,0.0
+categorical__job_title_Site Reliability Engineer,-0.0,0.0
+categorical__job_title_Site Reliability Engineering Lead,-0.0,0.0
+categorical__job_title_Software Development Lead,0.0,0.0
+categorical__job_title_Software Engineer,-0.0,0.0
+categorical__job_title_Solution Lead,0.0,0.0
+categorical__job_title_Supply Chain Analyst,-0.0,0.0
+categorical__job_title_Supply Chain Lead,0.0,0.0
+categorical__job_title_Support Operations Manager,-0.0,0.0
+categorical__job_title_System Administration Lead,0.0,0.0
+categorical__job_title_System Administration Manager,-0.0,0.0
+categorical__job_title_System Administrator,-0.0,0.0
+categorical__job_title_Talent Acquisition Lead,0.0,0.0
+categorical__job_title_Talent Acquisition Manager,0.0,0.0
+numeric__total_shortfall_hours,-0.0,0.0
+categorical__job_title_Technical Consultant,-0.0,0.0
+categorical__job_title_Technical Lead,0.0,0.0
+categorical__job_title_Technical Manager,0.0,0.0
+categorical__job_title_Technical Support Engineer,0.0,0.0
+categorical__job_title_Technical Support Lead,0.0,0.0
+categorical__job_title_Territory Manager,0.0,0.0
+categorical__job_title_Trainee,-0.0,0.0
+categorical__job_title_Transport Manager,0.0,0.0
+categorical__job_title_Transport Operations Lead,0.0,0.0
+categorical__job_title_Transportation Compliance Manager,-0.0,0.0
+categorical__job_title_Travel & Transport Manager,0.0,0.0
+categorical__job_title_Vehicle Maintenance Manager,-0.0,0.0
+categorical__job_title_Vice President - Customer Success,0.0,0.0
+categorical__job_title_Vice President - Delivery,0.0,0.0
+categorical__job_title_Vice President - Enterprise Solutions,-0.0,0.0
+categorical__marital_status_Married,-0.0,0.0
+categorical__job_title_Vice President - Human Resources,-0.0,0.0
+categorical__job_title_Vice President - Innovation,0.0,0.0
+categorical__job_title_Vice President - Marketing,0.0,0.0
+categorical__job_title_Vice President - Operations,0.0,0.0
+categorical__job_title_Vice President - Sales,0.0,0.0
+categorical__job_title_Vice President - Strategy,0.0,0.0
+categorical__job_title_Vice President - Technology,-0.0,0.0
+categorical__job_title_Warehouse Operations Lead,0.0,0.0
+categorical__job_title_Warehouse Operations Manager,-0.0,0.0
+categorical__job_title_Workplace Technology Manager,-0.0,0.0
+categorical__employment_type_Permanent,0.0,0.0
+categorical__employee_status_Active,0.0,0.0
+categorical__bonus_eligible_No,0.0,0.0
+categorical__bonus_eligible_Yes,-0.0,0.0
+categorical__job_title_Senior Solution Engineer,0.0,0.0

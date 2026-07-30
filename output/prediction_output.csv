@@ -1,0 +1,496 @@
+employee_id,first_name,last_name,department,job_title,avg_performance_score,predicted_performance_score,prediction_category
+1,Christy,Kiran,Executive Management,Founder & CEO,,,Prediction Unavailable
+2,Arjun,Mehta,Technology,Chief Technology Officer,,,Prediction Unavailable
+3,Priya,Sharma,Finance,Chief Financial Officer,,,Prediction Unavailable
+4,Rahul,Verma,Operations,Chief Operating Officer,,,Prediction Unavailable
+5,Neha,Reddy,Human Resources,Chief Human Resources Officer,,,Prediction Unavailable
+6,Ananya,Kapoor,Marketing,Chief Marketing Officer,,,Prediction Unavailable
+7,Vikram,Iyer,Technology,Chief Information Officer,,,Prediction Unavailable
+9,Aditya,Nair,Technology,President - Operations,3.83,3.8858257939156458,Consistent Performer
+10,Arjun,Kapoor,Finance,President - Finance,4.08,4.140794650137851,High Performer
+11,Rohan,Rao,Human Resources,President - Human Resources,4.22,4.1414618578871005,High Performer
+12,Karthik,Singh,Sales,President - Sales,4.26,4.140252672739944,High Performer
+13,Nikhil,Gupta,Marketing,President - Marketing,4.03,4.132391470222886,High Performer
+14,Rahul,Mishra,Product,President - Product,3.88,3.881457933459475,Consistent Performer
+15,Vikram,Shetty,Technology,President - Strategy,4.09,4.134466544549092,High Performer
+16,Sanjay,Bose,Technology,President - Global Business,4.26,4.144781324991349,High Performer
+17,Ananya,Sharma,Technology,President - Engineering,4.15,4.131996644842065,High Performer
+18,Diya,Iyer,Technology,President - Customer Success,4.01,4.137985466487235,High Performer
+19,Myra,Nair,Technology,President - Enterprise Solutions,4.16,4.133749032072698,High Performer
+20,Sara,Kapoor,Delivery,President - Delivery,4.12,4.137124902125916,High Performer
+21,Riya,Rao,Technology,President - Innovation,3.84,3.8763325516222182,Consistent Performer
+22,Priya,Singh,Technology,Senior Vice President - Technology,3.95,3.851140274953207,Consistent Performer
+23,Neha,Gupta,Technology,Senior Vice President - Engineering,4.15,4.104559083586091,High Performer
+24,Kavya,Mishra,Technology,Senior Vice President - Operations,4.02,4.1112807898701025,High Performer
+25,Meera,Shetty,Finance,Senior Vice President - Finance,4.06,4.1125929457350425,High Performer
+26,Sneha,Bose,Human Resources,Senior Vice President - Human Resources,4.07,4.119039820279489,High Performer
+27,Aarav,Sharma,Marketing,Senior Vice President - Marketing,3.86,3.85086666789921,Consistent Performer
+28,Vivaan,Iyer,Product,Senior Vice President - Product,3.97,3.8497012379759,Consistent Performer
+29,Aditya,Nair,Sales,Senior Vice President - Sales,3.78,3.8509659645602885,Consistent Performer
+30,Arjun,Kapoor,Technology,Senior Vice President - Strategy,4.0,4.101911287537084,High Performer
+31,Rohan,Rao,Delivery,Senior Vice President - Delivery,3.96,3.855653990478447,Consistent Performer
+32,Karthik,Singh,Technology,Senior Vice President - Customer Success,3.93,3.854213728815571,Consistent Performer
+33,Nikhil,Gupta,Technology,Senior Vice President - Enterprise Solutions,4.0,4.105521820055083,High Performer
+34,Rahul,Mishra,Technology,Senior Vice President - Data & AI,4.0,4.102982231433946,High Performer
+35,Vikram,Shetty,Technology,Senior Vice President - Innovation,4.17,4.108465144823832,High Performer
+36,Sanjay,Bose,Technology,Vice President - Technology,4.01,4.062536561447239,High Performer
+37,Ananya,Sharma,Technology,Vice President - Engineering,3.85,3.8094481259911515,Consistent Performer
+38,Diya,Iyer,Technology,Vice President - Operations,3.98,3.8042955857780627,Consistent Performer
+39,Myra,Nair,Finance,Vice President - Finance,3.89,3.809778499167949,Consistent Performer
+40,Sara,Kapoor,Human Resources,Vice President - Human Resources,3.78,3.805864751848985,Consistent Performer
+41,Riya,Rao,Marketing,Vice President - Marketing,3.91,3.8165298131989283,Consistent Performer
+42,Priya,Singh,Product,Vice President - Product,3.9,3.8141734457375014,Consistent Performer
+43,Neha,Gupta,Sales,Vice President - Sales,3.87,3.8047548633629065,Consistent Performer
+44,Kavya,Mishra,Technology,Vice President - Strategy,3.95,3.811659790806628,Consistent Performer
+45,Meera,Shetty,Delivery,Vice President - Delivery,3.97,3.804121275385144,Consistent Performer
+46,Sneha,Bose,Technology,Vice President - Customer Success,3.82,3.8083216406570584,Consistent Performer
+47,Aarav,Sharma,Technology,Vice President - Enterprise Solutions,4.04,4.066372933770869,High Performer
+48,Vivaan,Iyer,Technology,Vice President - Data & AI,3.75,3.809201677312986,Consistent Performer
+49,Aditya,Nair,Technology,Vice President - Innovation,3.89,3.803865915940187,Consistent Performer
+50,Arjun,Kapoor,Technology,Associate Vice President - Technology,3.78,3.7852378236644753,Consistent Performer
+51,Rohan,Rao,Technology,Associate Vice President - Engineering,3.78,3.7786195141737045,Consistent Performer
+52,Karthik,Singh,Technology,Associate Vice President - Operations,3.71,3.783321687568741,Consistent Performer
+53,Nikhil,Gupta,Finance,Associate Vice President - Finance,3.84,3.777113575621237,Consistent Performer
+54,Rahul,Mishra,Human Resources,Associate Vice President - Human Resources,3.96,3.7809912537975774,Consistent Performer
+55,Vikram,Shetty,Marketing,Associate Vice President - Marketing,3.83,3.7781768334368753,Consistent Performer
+56,Sanjay,Bose,Technology,Associate Vice President - Product,3.77,3.788567063047253,Consistent Performer
+57,Ananya,Sharma,Sales,Associate Vice President - Sales,3.71,3.7793317018323687,Consistent Performer
+58,Diya,Iyer,Technology,Associate Vice President - Strategy,3.77,3.778397348424777,Consistent Performer
+59,Myra,Nair,Technology,Associate Vice President - Delivery,3.74,3.7782400609553304,Consistent Performer
+60,Sara,Kapoor,Technology,Associate Vice President - Customer Success,3.79,3.774143092476656,Consistent Performer
+61,Riya,Rao,Technology,Associate Vice President - Enterprise Solutions,3.85,3.781322851659943,Consistent Performer
+62,Priya,Singh,Technology,Associate Vice President - Data & AI,3.89,3.7821769546256077,Consistent Performer
+63,Neha,Gupta,Technology,Associate Vice President - Innovation,3.79,3.77784523557451,Consistent Performer
+64,Kavya,Mishra,Technology,Senior Director - Technology,3.88,3.7298933417056888,Consistent Performer
+65,Meera,Shetty,Technology,Senior Director - Engineering,3.68,3.7358343079948506,Consistent Performer
+66,Sneha,Bose,Technology,Senior Director - Operations,3.59,3.7300404937227754,Consistent Performer
+67,Aarav,Sharma,Finance,Senior Director - Finance,3.49,3.47786816406524,Consistent Performer
+68,Vivaan,Iyer,Human Resources,Senior Director - Human Resources,3.84,3.7319282467571098,Consistent Performer
+69,Aditya,Nair,Marketing,Senior Director - Marketing,3.74,3.7371363284074306,Consistent Performer
+70,Arjun,Kapoor,Product,Senior Director - Product,3.75,3.7336806339877424,Consistent Performer
+71,Rohan,Rao,Sales,Senior Director - Sales,3.62,3.7427883154801487,Consistent Performer
+72,Karthik,Singh,Technology,Senior Director - Strategy,3.46,3.4837844213497067,Consistent Performer
+73,Nikhil,Gupta,Delivery,Senior Director - Delivery,3.67,3.7314714185434026,Consistent Performer
+74,Rahul,Mishra,Technology,Senior Director - Customer Success,3.63,3.7371854084490073,Consistent Performer
+75,Vikram,Shetty,Technology,Senior Director - Enterprise Solutions,3.65,3.7312958834649157,Consistent Performer
+76,Sanjay,Bose,Technology,Senior Director - Data & AI,3.52,3.736137522795816,Consistent Performer
+77,Ananya,Sharma,Technology,Senior Director - Innovation,3.66,3.735386390547935,Consistent Performer
+78,Diya,Iyer,Technology,Director - Technology,3.38,3.4504847358169486,Consistent Performer
+79,Myra,Nair,Technology,Director - Engineering,3.6,3.7039472996736795,Consistent Performer
+80,Sara,Kapoor,Technology,Director - Operations,3.7,3.7067256508917583,Consistent Performer
+81,Riya,Rao,Finance,Director - Finance,3.67,3.699967875465124,Consistent Performer
+82,Priya,Singh,Human Resources,Director - Human Resources,3.51,3.7069644134887003,Consistent Performer
+83,Neha,Gupta,Marketing,Director - Marketing,3.56,3.7073604635550894,Consistent Performer
+84,Kavya,Mishra,Product,Director - Product,3.71,3.707019954925932,Consistent Performer
+85,Meera,Shetty,Sales,Director - Sales,3.82,3.7065436544176165,Consistent Performer
+86,Sneha,Bose,Technology,Director - Strategy,3.47,3.449097566220168,Consistent Performer
+87,Aarav,Sharma,Delivery,Director - Delivery,3.78,3.7037551677471776,Consistent Performer
+88,Vivaan,Iyer,Technology,Director - Customer Success,3.71,3.7005743050670548,Consistent Performer
+89,Aditya,Nair,Technology,Director - Enterprise Solutions,3.62,3.711239366416998,Consistent Performer
+90,Arjun,Kapoor,Technology,Director - Data & AI,3.56,3.696821857242056,Consistent Performer
+91,Rohan,Rao,Technology,Director - Innovation,3.5,3.703360342366357,Consistent Performer
+92,Karthik,Singh,Technology,Associate Director - Technology,3.56,3.706929031103491,Consistent Performer
+93,Nikhil,Gupta,Technology,Associate Director - Engineering,3.64,3.6774326889202946,Consistent Performer
+94,Rahul,Mishra,Technology,Associate Director - Operations,3.57,3.6735626968251776,Consistent Performer
+95,Vikram,Shetty,Finance,Associate Director - Finance,3.66,3.6767553457186857,Consistent Performer
+96,Sanjay,Bose,Human Resources,Associate Director - Human Resources,3.71,3.67416790174154,Consistent Performer
+97,Ananya,Sharma,Marketing,Associate Director - Marketing,3.57,3.6805231657061306,Consistent Performer
+98,Diya,Iyer,Technology,Associate Director - Product,3.73,3.6807359946128093,Consistent Performer
+99,Myra,Nair,Sales,Associate Director - Sales,3.27,3.4302605107486746,Consistent Performer
+100,Sara,Kapoor,Technology,Associate Director - Strategy,3.69,3.678222339681936,Consistent Performer
+101,Riya,Rao,Technology,Associate Director - Delivery,3.54,3.684669214226382,Consistent Performer
+102,Priya,Singh,Technology,Associate Director - Customer Success,3.85,3.6734621754785306,Consistent Performer
+103,Neha,Gupta,Technology,Associate Director - Enterprise Solutions,3.7,3.670141846862544,Consistent Performer
+104,Kavya,Mishra,Technology,Associate Director - Data & AI,3.61,3.675349928512865,Consistent Performer
+105,Meera,Shetty,Technology,Associate Director - Innovation,3.6,3.6697393354005,Consistent Performer
+106,Sneha,Bose,Technology,Senior Manager - Technology,3.67,3.6344103281384506,Consistent Performer
+107,Aarav,Sharma,Technology,Senior Manager - Engineering,3.64,3.6319347562850566,Consistent Performer
+108,Vivaan,Iyer,Technology,Senior Manager - Operations,3.3,3.378937931408825,Consistent Performer
+109,Aditya,Nair,Finance,Senior Manager - Finance,3.46,3.391001564559558,Consistent Performer
+110,Arjun,Kapoor,Human Resources,Senior Manager - Human Resources,3.44,3.393143370730008,Consistent Performer
+111,Rohan,Rao,Marketing,Senior Manager - Marketing,3.4,3.3876519820096105,Consistent Performer
+112,Karthik,Singh,Product,Senior Manager - Product,3.59,3.643143962853486,Consistent Performer
+113,Nikhil,Gupta,Sales,Senior Manager - Sales,3.73,3.6429606298741346,Consistent Performer
+114,Rahul,Mishra,Technology,Senior Manager - Strategy,3.44,3.38267736833487,Consistent Performer
+115,Vikram,Shetty,Delivery,Senior Manager - Delivery,3.41,3.3970306371027865,Consistent Performer
+116,Sanjay,Bose,Technology,Senior Manager - Customer Success,3.52,3.6399300999202477,Consistent Performer
+117,Ananya,Sharma,Technology,Senior Manager - Enterprise Solutions,3.33,3.380882450565959,Consistent Performer
+118,Diya,Iyer,Technology,Senior Manager - Data & AI,3.65,3.659749543214026,Consistent Performer
+119,Myra,Nair,Technology,Senior Manager - Innovation,3.47,3.3781855744753755,Consistent Performer
+120,Sara,Kapoor,Operations,Senior Manager - Transport and Logistics,3.79,3.689744412833839,Consistent Performer
+121,Riya,Rao,Technology,Manager,3.5,3.6084355999340905,Consistent Performer
+122,Priya,Singh,Delivery,Project Manager,3.57,3.593026535792476,Consistent Performer
+123,Neha,Gupta,Product,Product Manager,3.42,3.3419097778693554,Consistent Performer
+124,Kavya,Mishra,Delivery,Program Manager,3.52,3.5952369759223846,Consistent Performer
+125,Meera,Shetty,Technology,Operations Manager,3.48,3.3471224767113914,Consistent Performer
+126,Sneha,Bose,Delivery,Delivery Manager,3.54,3.5956589596790365,Consistent Performer
+127,Aarav,Sharma,Technology,Engineering Manager,3.29,3.34275374538266,Consistent Performer
+128,Vivaan,Iyer,Technology,Technical Manager,3.36,3.3391585850271084,Consistent Performer
+129,Aditya,Nair,Technology,Application Manager,3.56,3.603352313198831,Consistent Performer
+130,Arjun,Kapoor,Technology,Platform Manager,3.52,3.6041148055846404,Consistent Performer
+131,Rohan,Rao,Technology,Infrastructure Manager,3.74,3.6111113436082167,Consistent Performer
+132,Karthik,Singh,Technology,Cloud Operations Manager,3.47,3.3444955710854756,Consistent Performer
+133,Nikhil,Gupta,Technology,IT Manager,3.11,3.339940549707526,Consistent Performer
+134,Rahul,Mishra,Technology,Security Manager,3.44,3.340101849201491,Consistent Performer
+135,Vikram,Shetty,Technology,Network Operations Manager,3.73,3.5930626049350995,Consistent Performer
+136,Sanjay,Bose,Human Resources,HR Manager,3.22,3.34142377734496,Consistent Performer
+137,Ananya,Sharma,Human Resources,Talent Acquisition Manager,3.47,3.3348216292659236,Consistent Performer
+138,Diya,Iyer,Human Resources,Learning & Development Manager,3.48,3.3400297109162445,Consistent Performer
+139,Myra,Nair,Finance,Payroll Manager,3.23,3.3394617998280736,Consistent Performer
+140,Sara,Kapoor,Finance,Finance Manager,3.5,3.6020502927862506,Consistent Performer
+141,Riya,Rao,Finance,Accounting Manager,3.46,3.343735528070803,Consistent Performer
+142,Priya,Singh,Procurement,Procurement Manager,3.44,3.3485771674017033,Consistent Performer
+143,Neha,Gupta,Governance,Compliance Manager,3.27,3.3440180458915916,Consistent Performer
+144,Kavya,Mishra,Governance,Risk Management Manager,3.39,3.3458802913111194,Consistent Performer
+145,Meera,Shetty,Marketing,Marketing Manager,3.46,3.341121787229563,Consistent Performer
+146,Sneha,Bose,Marketing,Brand Manager,3.51,3.6034078546360626,Consistent Performer
+147,Aarav,Sharma,Marketing,Digital Marketing Manager,3.38,3.3480724838319875,Consistent Performer
+148,Vivaan,Iyer,Marketing,Campaign Manager,3.55,3.5960343127652488,Consistent Performer
+149,Aditya,Nair,Sales,Sales Manager,3.49,3.3464311794758186,Consistent Performer
+150,Arjun,Kapoor,Sales,Regional Sales Manager,3.07,3.335913270142962,Consistent Performer
+151,Rohan,Rao,Sales,Territory Manager,3.4,3.342543365847118,Consistent Performer
+152,Karthik,Singh,Finance,Key Account Manager,3.56,3.5987583472316644,Consistent Performer
+153,Nikhil,Gupta,Technology,Customer Success Manager,3.56,3.6094234085816077,Consistent Performer
+154,Rahul,Mishra,Technology,Client Relationship Manager,3.17,3.3355184447621413,Consistent Performer
+155,Vikram,Shetty,Operations,Support Operations Manager,3.58,3.600994721051836,Consistent Performer
+156,Sanjay,Bose,Delivery,Service Delivery Manager,3.3,3.3389198224301664,Consistent Performer
+157,Ananya,Sharma,Sales,Business Development Manager,3.41,3.3433950194416457,Consistent Performer
+158,Diya,Iyer,Technology,Data Analytics Manager,3.52,3.5976221618814916,Consistent Performer
+159,Myra,Nair,Technology,AI/ML Manager,3.49,3.3440002243580085,Consistent Performer
+160,Sara,Kapoor,Technology,BI Manager,3.35,3.3408631169017324,Consistent Performer
+161,Riya,Rao,Operations,Reporting Manager,3.8,3.604323960434614,Consistent Performer
+162,Priya,Singh,Delivery,PMO Manager,3.57,3.604078736442017,Consistent Performer
+163,Neha,Gupta,Technology,Strategy Manager,3.44,3.344433568252589,Consistent Performer
+164,Kavya,Mishra,Technology,Transformation Manager,3.2,3.3446427231025626,Consistent Performer
+165,Meera,Shetty,Technology,Innovation Manager,3.41,3.342103134481426,Consistent Performer
+166,Sneha,Bose,Technology,Quality Assurance Manager,3.52,3.5969881384674487,Consistent Performer
+167,Aarav,Sharma,Technology,Cyber Security Manager,3.42,3.3345467975263583,Consistent Performer
+168,Vivaan,Iyer,Technology,Information Security Manager,3.24,3.340212932075955,Consistent Performer
+169,Aditya,Nair,Technology,SOC Manager,3.36,3.3462491830016767,Consistent Performer
+170,Arjun,Kapoor,Technology,Security Operations Manager,3.29,3.3424671274297095,Consistent Performer
+171,Rohan,Rao,Technology,Identity & Access Management Manager,3.42,3.3391946541697317,Consistent Performer
+172,Karthik,Singh,Technology,Governance Risk & Compliance (GRC) Manager,3.44,3.343669851181211,Consistent Performer
+173,Nikhil,Gupta,Technology,Network Security Manager,3.52,3.597546712713371,Consistent Performer
+174,Rahul,Mishra,Technology,Cloud Security Manager,3.7,3.6021135203047057,Consistent Performer
+175,Vikram,Shetty,Technology,Application Security Manager,3.43,3.3394889582039053,Consistent Performer
+176,Sanjay,Bose,Technology,System Administration Manager,3.32,3.345521535072922,Consistent Performer
+177,Ananya,Sharma,Technology,Database Administration Manager,3.62,3.5996294731208005,Consistent Performer
+178,Diya,Iyer,Technology,Server Administration Manager,3.26,3.334618935811605,Consistent Performer
+179,Myra,Nair,Technology,Network Administration Manager,3.32,3.33900252224323,Consistent Performer
+180,Sara,Kapoor,Technology,DevOps Manager,3.47,3.334674477248837,Consistent Performer
+181,Riya,Rao,Technology,Platform Operations Manager,3.62,3.597262970207014,Consistent Performer
+182,Priya,Singh,Technology,Backup & Recovery Manager,3.4,3.335737735064475,Consistent Performer
+183,Neha,Gupta,Technology,Endpoint Management Manager,3.32,3.339663268596824,Consistent Performer
+184,Kavya,Mishra,Operations,IT Support Manager,3.6,3.6046373106879392,Consistent Performer
+185,Meera,Shetty,Technology,Service Desk Manager,3.5,3.5991146540987247,Consistent Performer
+186,Sneha,Bose,Technology,Enterprise Applications Manager,3.42,3.338828211850311,Consistent Performer
+187,Aarav,Sharma,Technology,Workplace Technology Manager,3.57,3.6007754307495023,Consistent Performer
+188,Vivaan,Iyer,Operations,Transport Manager,3.43,3.3388837532875426,Consistent Performer
+189,Aditya,Nair,Operations,Fleet Manager,3.38,3.34491633015656,Consistent Performer
+190,Arjun,Kapoor,Operations,Logistics Manager,3.31,3.3405882851621667,Consistent Performer
+191,Rohan,Rao,Operations,Supply Chain Manager,3.26,3.345338313913212,Consistent Performer
+192,Karthik,Singh,Operations,Warehouse Operations Manager,3.29,3.3418826194935236,Consistent Performer
+193,Nikhil,Gupta,Technology,Distribution Manager,3.3,3.3365906133445713,Consistent Performer
+194,Rahul,Mishra,Technology,Route Operations Manager,3.45,3.3406077574567754,Consistent Performer
+195,Vikram,Shetty,Operations,Dispatch Manager,3.42,3.3378370923199197,Consistent Performer
+196,Sanjay,Bose,Delivery,Delivery Operations Manager,3.45,3.3424038999112544,Consistent Performer
+197,Ananya,Sharma,Operations,Vehicle Maintenance Manager,3.57,3.603299221132736,Consistent Performer
+198,Diya,Iyer,Technology,Driver Operations Manager,3.55,3.5976849539636664,Consistent Performer
+199,Myra,Nair,Operations,Last Mile Operations Manager,3.44,3.3375817328749626,Consistent Performer
+200,Sara,Kapoor,Operations,Freight Operations Manager,3.05,3.3428814251051384,Consistent Performer
+201,Riya,Rao,Technology,Inventory Operations Manager,3.49,3.33809532721147,Consistent Performer
+202,Priya,Singh,Operations,Procurement & Logistics Manager,3.52,3.5994012720516753,Consistent Performer
+203,Neha,Gupta,Operations,Cold Chain Operations Manager,3.51,3.596355775175254,Consistent Performer
+204,Kavya,Mishra,Operations,Shipping Operations Manager,3.4,3.34528277247598,Consistent Performer
+205,Meera,Shetty,Operations,Port Operations Manager,3.39,3.341002582837596,Consistent Performer
+206,Sneha,Bose,Operations,Export Operations Manager,3.35,3.3467603279670475,Consistent Performer
+207,Aarav,Sharma,Operations,Import Operations Manager,3.26,3.3416993983338137,Consistent Performer
+208,Vivaan,Iyer,Procurement,Vendor Management Manager,3.47,3.3412230978254978,Consistent Performer
+209,Aditya,Nair,Operations,Transportation Compliance Manager,3.54,3.603994811943385,Consistent Performer
+210,Arjun,Kapoor,Operations,Travel & Transport Manager,3.41,3.3408643415873005,Consistent Performer
+211,Rohan,Rao,Operations,Mobility Operations Manager,3.27,3.3441923562845104,Consistent Performer
+212,Karthik,Singh,Technology,Team Lead,3.81,3.6966770645823366,Consistent Performer
+213,Nikhil,Gupta,Technology,Technical Lead,3.75,3.5698298435169384,Consistent Performer
+214,Rahul,Mishra,Technology,Functional Lead,3.2,3.3122042082164853,Consistent Performer
+215,Vikram,Shetty,Delivery,Project Lead,3.29,3.3112224255283422,Consistent Performer
+216,Sanjay,Bose,Product,Product Lead,3.53,3.5691342527062893,Consistent Performer
+217,Ananya,Sharma,Delivery,Program Lead,3.65,3.568152470018146,Consistent Performer
+218,Diya,Iyer,Technology,Engineering Lead,3.14,3.308965354727994,Consistent Performer
+219,Myra,Nair,Technology,Software Development Lead,3.41,3.3146793446335985,Consistent Performer
+220,Sara,Kapoor,Technology,Frontend Lead,3.74,3.5727306377474095,Consistent Performer
+221,Riya,Rao,Technology,Backend Lead,3.45,3.309552738110773,Consistent Performer
+222,Priya,Singh,Technology,Full Stack Lead,2.98,3.0503656228206206,Consistent Performer
+223,Neha,Gupta,Technology,Mobile App Lead,3.52,3.5615312850807817,Consistent Performer
+224,Kavya,Mishra,Technology,API Lead,3.18,3.307801575565709,Consistent Performer
+225,Meera,Shetty,Technology,Integration Lead,3.24,3.3037483623108814,Consistent Performer
+226,Sneha,Bose,Technology,Solution Lead,3.62,3.566428465848914,Consistent Performer
+227,Aarav,Sharma,Technology,Architecture Lead,3.74,3.5623752525940864,Consistent Performer
+228,Vivaan,Iyer,Technology,Application Lead,3.38,3.31116688409111,Consistent Performer
+229,Aditya,Nair,Technology,Platform Lead,3.41,3.312020987056775,Consistent Performer
+230,Arjun,Kapoor,Technology,Infrastructure Lead,3.37,3.3174601452228143,Consistent Performer
+231,Rohan,Rao,Technology,Cloud Operations Lead,3.31,3.3098737744453217,Consistent Performer
+232,Karthik,Singh,Technology,DevOps Lead,3.13,3.315129711451651,Consistent Performer
+233,Nikhil,Gupta,Technology,Site Reliability Engineering Lead,3.27,3.3090569653078488,Consistent Performer
+234,Rahul,Mishra,Technology,Cloud Engineering Lead,3.44,3.3134405517394736,Consistent Performer
+235,Vikram,Shetty,Technology,Platform Engineering Lead,3.08,3.3137449912260073,Consistent Performer
+236,Sanjay,Bose,Technology,QA Lead,3.28,3.3199170340308877,Consistent Performer
+237,Ananya,Sharma,Technology,Automation Testing Lead,3.27,3.3061407989149316,Consistent Performer
+238,Diya,Iyer,Technology,Manual Testing Lead,3.41,3.3030515468146637,Consistent Performer
+239,Myra,Nair,Technology,Performance Testing Lead,3.52,3.5649071551339997,Consistent Performer
+240,Sara,Kapoor,Technology,Security Testing Lead,3.69,3.5617700476777236,Consistent Performer
+241,Riya,Rao,Technology,Security Lead,3.27,3.308681612221637,Consistent Performer
+242,Priya,Singh,Technology,Cyber Security Lead,3.28,3.304445177807099,Consistent Performer
+243,Neha,Gupta,Technology,SOC Lead,3.32,3.308920374818579,Consistent Performer
+244,Kavya,Mishra,Technology,Application Security Lead,3.72,3.5653185773628353,Consistent Performer
+245,Meera,Shetty,Technology,Cloud Security Lead,3.41,3.3171374581272404,Consistent Performer
+246,Sneha,Bose,Technology,IAM Lead,3.4,3.3158804176240753,Consistent Performer
+247,Aarav,Sharma,Technology,GRC Lead,3.26,3.314898634935932,Consistent Performer
+248,Vivaan,Iyer,Technology,Network Lead,3.1,3.311351329936389,Consistent Performer
+249,Aditya,Nair,Technology,Database Lead,3.58,3.5710957947868955,Consistent Performer
+250,Arjun,Kapoor,Technology,Data Engineering Lead,3.68,3.565668422834241,Consistent Performer
+251,Rohan,Rao,Technology,Data Analytics Lead,3.72,3.57679153708346,Consistent Performer
+252,Karthik,Singh,Technology,BI Lead,3.31,3.3092596587621674,Consistent Performer
+253,Nikhil,Gupta,Technology,AI/ML Lead,3.33,3.3052980560871954,Consistent Performer
+254,Rahul,Mishra,Technology,MLOps Lead,3.21,3.3124340600466353,Consistent Performer
+255,Vikram,Shetty,Technology,GenAI Lead,3.42,3.3094801737500696,Consistent Performer
+256,Sanjay,Bose,Technology,RPA Lead,3.45,3.312624967287569,Consistent Performer
+257,Ananya,Sharma,Technology,System Administration Lead,3.48,3.306416855340065,Consistent Performer
+258,Diya,Iyer,Technology,Linux Administration Lead,3.31,3.309286817137999,Consistent Performer
+259,Myra,Nair,Technology,Windows Administration Lead,3.48,3.3071136708362827,Consistent Performer
+260,Sara,Kapoor,Technology,Database Administration Lead,3.41,3.3173206792869507,Consistent Performer
+261,Riya,Rao,Operations,IT Support Lead,3.56,3.566015392859053,Consistent Performer
+262,Priya,Singh,Technology,Service Desk Lead,3.67,3.5724185121796523,Consistent Performer
+263,Neha,Gupta,Technology,Release Management Lead,3.54,3.5641908673431737,Consistent Performer
+264,Kavya,Mishra,Technology,Change Management Lead,3.54,3.5705461313077644,Consistent Performer
+265,Meera,Shetty,Operations,Technical Support Lead,3.47,3.311359016017612,Consistent Performer
+266,Sneha,Bose,Delivery,PMO Lead,3.63,3.5783051617171506,Consistent Performer
+267,Aarav,Sharma,Delivery,Delivery Lead,3.46,3.3061407989149316,Consistent Performer
+268,Vivaan,Iyer,Technology,Operations Lead,3.22,3.3043340949326354,Consistent Performer
+269,Aditya,Nair,Technology,Customer Success Lead,3.44,3.3082596284649846,Consistent Performer
+270,Arjun,Kapoor,Technology,Client Relationship Lead,3.47,3.304206415210157,Consistent Performer
+271,Rohan,Rao,Human Resources,HR Lead,3.22,3.308315169902216,Consistent Performer
+272,Karthik,Singh,Human Resources,Talent Acquisition Lead,3.36,3.305636115345216,Consistent Performer
+273,Nikhil,Gupta,Finance,Payroll Lead,3.34,3.30965325945742,Consistent Performer
+274,Rahul,Mishra,Finance,Finance Lead,3.76,3.5644940821441393,Consistent Performer
+275,Vikram,Shetty,Marketing,Marketing Lead,3.45,3.316221352328689,Consistent Performer
+276,Sanjay,Bose,Marketing,Digital Marketing Lead,3.36,3.3146894800859585,Consistent Performer
+277,Ananya,Sharma,Sales,Sales Lead,3.67,3.5716377721848027,Consistent Performer
+278,Diya,Iyer,Sales,Regional Sales Lead,3.54,3.569464625883086,Consistent Performer
+279,Myra,Nair,Sales,Business Development Lead,3.6,3.5696300255092135,Consistent Performer
+280,Sara,Kapoor,Procurement,Procurement Lead,3.52,3.5667677497925023,Consistent Performer
+281,Riya,Rao,Governance,Compliance Lead,3.21,3.317805890562058,Consistent Performer
+282,Priya,Singh,Governance,Risk Management Lead,3.43,3.312744960928824,Consistent Performer
+283,Neha,Gupta,Technology,Innovation Lead,3.2,3.3068116807208856,Consistent Performer
+284,Kavya,Mishra,Operations,Transport Operations Lead,3.57,3.567611717305807,Consistent Performer
+285,Meera,Shetty,Operations,Fleet Operations Lead,3.65,3.5615868265180133,Consistent Performer
+286,Sneha,Bose,Operations,Logistics Lead,3.34,3.3104700685948925,Consistent Performer
+287,Aarav,Sharma,Operations,Supply Chain Lead,3.46,3.3122402773591086,Consistent Performer
+288,Vivaan,Iyer,Operations,Warehouse Operations Lead,3.69,3.5682724636594014,Consistent Performer
+289,Aditya,Nair,Operations,Dispatch Lead,3.61,3.5681626054705062,Consistent Performer
+290,Arjun,Kapoor,Delivery,Delivery Operations Lead,3.2,3.3094339691550863,Consistent Performer
+291,Rohan,Rao,Operations,Freight Operations Lead,3.29,3.3072608228533698,Consistent Performer
+292,Karthik,Singh,Operations,Shipping Operations Lead,3.41,3.3135244762381055,Consistent Performer
+293,Nikhil,Gupta,Operations,Mobility Operations Lead,3.4,3.315019853262756,Consistent Performer
+294,Rahul,Mishra,Technology,Senior Software Engineer,3.31,3.2717323736523256,Consistent Performer
+295,Vikram,Shetty,Technology,Senior Frontend Engineer,3.12,3.268643121552058,Consistent Performer
+296,Sanjay,Bose,Technology,Senior Backend Engineer,3.21,3.273301539723248,Consistent Performer
+297,Ananya,Sharma,Technology,Senior Full Stack Engineer,3.6,3.5260790742971464,Consistent Performer
+298,Diya,Iyer,Technology,Senior Mobile Application Developer,3.38,3.2648286708941727,Consistent Performer
+299,Myra,Nair,Technology,Senior API Developer,3.31,3.269670310225073,Consistent Performer
+300,Sara,Kapoor,Technology,Senior Integration Engineer,3.27,3.265250654650825,Consistent Performer
+301,Riya,Rao,Technology,Senior Solution Engineer,3.47,3.272063971514691,Consistent Performer
+302,Priya,Singh,Operations,Senior Application Support Engineer,3.33,3.273650959119197,Consistent Performer
+303,Neha,Gupta,Technology,Senior Data Engineer,3.35,3.2797313913442223,Consistent Performer
+304,Kavya,Mishra,Technology,Senior Data Analyst,3.29,3.2707708618689026,Consistent Performer
+305,Meera,Shetty,Technology,Senior Business Analyst,3.41,3.2763932411946524,Consistent Performer
+306,Sneha,Bose,Product,Senior Product Analyst,3.47,3.2660106976654975,Consistent Performer
+307,Aarav,Sharma,Technology,Senior BI Developer,3.21,3.269478178298571,Consistent Performer
+308,Vivaan,Iyer,Operations,Senior Reporting Analyst,3.58,3.5234466504105857,Consistent Performer
+309,Aditya,Nair,Technology,Senior AI/ML Engineer,3.21,3.2716407630724706,Consistent Performer
+310,Arjun,Kapoor,Technology,Senior MLOps Engineer,3.53,3.5240518553269484,Consistent Performer
+311,Rohan,Rao,Technology,Senior GenAI Engineer,3.26,3.27573127015549,Consistent Performer
+312,Karthik,Singh,Technology,Senior RPA Developer,3.19,3.2716780569006625,Consistent Performer
+313,Nikhil,Gupta,Technology,Senior DevOps Engineer,3.42,3.2715681987117673,Consistent Performer
+314,Rahul,Mishra,Technology,Senior Cloud Engineer,3.24,3.2751272899246957,Consistent Performer
+315,Vikram,Shetty,Technology,Senior Platform Engineer,3.15,3.2691940097167573,Consistent Performer
+316,Sanjay,Bose,Technology,Senior Infrastructure Engineer,3.31,3.2729800773132425,Consistent Performer
+317,Ananya,Sharma,Technology,Senior Site Reliability Engineer,3.26,3.266405523046318,Consistent Performer
+318,Diya,Iyer,Technology,Senior QA Engineer,3.2,3.27367689280946,Consistent Performer
+319,Myra,Nair,Technology,Senior Automation Test Engineer,3.3,3.2743477746154146,Consistent Performer
+320,Sara,Kapoor,Technology,Senior Manual Test Engineer,3.44,3.273549213086982,Consistent Performer
+321,Riya,Rao,Technology,Senior Performance Test Engineer,3.23,3.2732561337383763,Consistent Performer
+322,Priya,Singh,Technology,Senior Security Test Engineer,3.35,3.2731904568487846,Consistent Performer
+323,Neha,Gupta,Technology,Senior Cyber Security Analyst,3.22,3.2692767095298207,Consistent Performer
+324,Kavya,Mishra,Technology,Senior SOC Analyst,3.36,3.276181636973542,Consistent Performer
+325,Meera,Shetty,Technology,Senior Information Security Analyst,3.32,3.2774021822586272,Consistent Performer
+326,Sneha,Bose,Technology,Senior IAM Analyst,3.22,3.2715130833499924,Consistent Performer
+327,Aarav,Sharma,Technology,Senior GRC Analyst,3.27,3.269706379367696,Consistent Performer
+328,Vivaan,Iyer,Technology,Senior Network Security Engineer,3.22,3.265195113213593,Consistent Performer
+329,Aditya,Nair,Technology,Senior Cloud Security Engineer,3.19,3.2693038679056525,Consistent Performer
+330,Arjun,Kapoor,Technology,Senior Application Security Engineer,3.22,3.265983539289666,Consistent Performer
+331,Rohan,Rao,Technology,Senior Database Administrator,3.53,3.5277475370291467,Consistent Performer
+332,Karthik,Singh,Technology,Senior System Administrator,3.28,3.2667719653657388,Consistent Performer
+333,Nikhil,Gupta,Technology,Senior Linux Administrator,3.24,3.2724859552713434,Consistent Performer
+334,Rahul,Mishra,Technology,Senior Windows Administrator,3.53,3.532644291721822,Consistent Performer
+335,Vikram,Shetty,Technology,Senior Network Engineer,3.6,3.5380834498878615,Consistent Performer
+336,Sanjay,Bose,Operations,Senior IT Support Engineer,3.5,3.529031309832687,Consistent Performer
+337,Ananya,Sharma,Operations,Senior Technical Support Engineer,3.31,3.2780061624894214,Consistent Performer
+338,Diya,Iyer,Technology,Senior Service Desk Analyst,3.26,3.26643268142215,Consistent Performer
+339,Myra,Nair,Delivery,Senior PMO Analyst,3.45,3.2706330466940643,Consistent Performer
+340,Sara,Kapoor,Technology,Senior Technical Consultant,3.34,3.266854665178802,Consistent Performer
+341,Riya,Rao,Technology,Senior Functional Consultant,3.35,3.2711466410305716,Consistent Performer
+342,Priya,Singh,Delivery,Senior Delivery Analyst,3.4,3.2681011441541505,Consistent Performer
+343,Neha,Gupta,Technology,Senior Operations Analyst,3.02,3.266983569586849,Consistent Performer
+344,Kavya,Mishra,Technology,Senior Customer Success Specialist,3.09,3.273749031094707,Consistent Performer
+345,Meera,Shetty,Technology,Senior Client Relationship Executive,3.22,3.2691502544929105,Consistent Performer
+346,Sneha,Bose,Human Resources,Senior HR Executive,3.06,3.275640884261203,Consistent Performer
+347,Aarav,Sharma,Human Resources,Senior Talent Acquisition Specialist,3.42,3.2705320992719606,Consistent Performer
+348,Vivaan,Iyer,Finance,Senior Payroll Executive,3.1,3.273402061069895,Consistent Performer
+349,Aditya,Nair,Finance,Senior Finance Executive,3.4,3.2674687808619565,Consistent Performer
+350,Arjun,Kapoor,Finance,Senior Accountant,3.54,3.531570898453824,Consistent Performer
+351,Rohan,Rao,Procurement,Senior Procurement Executive,3.35,3.2745865372123566,Consistent Performer
+352,Karthik,Singh,Governance,Senior Compliance Analyst,3.41,3.274704081482475,Consistent Performer
+353,Nikhil,Gupta,Governance,Senior Risk Analyst,3.46,3.271754295318071,Consistent Performer
+354,Rahul,Mishra,Marketing,Senior Marketing Executive,3.43,3.272329892487465,Consistent Performer
+355,Vikram,Shetty,Marketing,Senior Digital Marketing Specialist,3.31,3.2701567461857484,Consistent Performer
+356,Sanjay,Bose,Sales,Senior Sales Executive,3.46,3.2773365053690355,Consistent Performer
+357,Ananya,Sharma,Sales,Senior Business Development Executive,3.44,3.2786486612339756,Consistent Performer
+358,Diya,Iyer,Operations,Senior Transport Executive,3.33,3.2634982674201924,Consistent Performer
+359,Myra,Nair,Operations,Senior Fleet Coordinator,3.32,3.270311584284059,Consistent Performer
+360,Sara,Kapoor,Operations,Senior Logistics Executive,3.3,3.267266087407638,Consistent Performer
+361,Riya,Rao,Operations,Senior Supply Chain Analyst,3.1,3.27018390456158,Consistent Performer
+362,Priya,Singh,Operations,Senior Warehouse Executive,3.24,3.2652145855082013,Consistent Performer
+363,Neha,Gupta,Operations,Senior Dispatch Coordinator,3.25,3.2717052152764943,Consistent Performer
+364,Kavya,Mishra,Operations,Senior Freight Coordinator,3.43,3.267193949122391,Consistent Performer
+365,Meera,Shetty,Operations,Senior Shipping Executive,2.91,3.0153443065604293,Consistent Performer
+366,Sneha,Bose,Technology,Senior Operations Coordinator,3.34,3.2740368737332255,Consistent Performer
+367,Aarav,Sharma,Technology,Software Engineer,3.08,3.2335696567375796,Consistent Performer
+368,Vivaan,Iyer,Technology,Frontend Engineer,3.11,3.223525961715733,Consistent Performer
+369,Aditya,Nair,Technology,Backend Engineer,3.39,3.230064446840034,Consistent Performer
+370,Arjun,Kapoor,Technology,Full Stack Engineer,3.02,3.2185825763526177,Consistent Performer
+371,Rohan,Rao,Technology,Mobile Application Developer,3.5,3.4805297952518086,Consistent Performer
+372,Karthik,Singh,Technology,API Developer,3.32,3.221370273773769,Consistent Performer
+373,Nikhil,Gupta,Technology,Integration Engineer,3.35,3.2257736956738325,Consistent Performer
+374,Rahul,Mishra,Technology,Solution Engineer,3.08,3.2197929861853427,Consistent Performer
+375,Vikram,Shetty,Operations,Application Support Engineer,2.78,2.9604980989036007,Needs Improvement
+376,Sanjay,Bose,Technology,Data Engineer,2.88,2.9666222863524725,Needs Improvement
+377,Ananya,Sharma,Technology,Data Analyst,3.1,3.2196746526659363,Consistent Performer
+378,Diya,Iyer,Technology,Business Analyst,3.12,3.2239666285177058,Consistent Performer
+379,Myra,Nair,Product,Product Analyst,3.25,3.219638583523313,Consistent Performer
+380,Sara,Kapoor,Technology,BI Developer,3.12,3.2242053911146478,Consistent Performer
+381,Riya,Rao,Operations,Reporting Analyst,3.42,3.2222154659726416,Consistent Performer
+382,Priya,Singh,Technology,AI/ML Engineer,3.56,3.4817767096634378,Consistent Performer
+383,Neha,Gupta,Technology,MLOps Engineer,2.79,2.960138907229123,Needs Improvement
+384,Kavya,Mishra,Technology,GenAI Engineer,3.51,3.481207138453418,Consistent Performer
+385,Meera,Shetty,Technology,RPA Developer,2.98,2.9601028380864998,Needs Improvement
+386,Sneha,Bose,Technology,DevOps Engineer,3.06,3.224873823549465,Consistent Performer
+387,Aarav,Sharma,Technology,Cloud Engineer,3.04,3.2198128939162314,Consistent Performer
+388,Vivaan,Iyer,Technology,Platform Engineer,3.54,3.482679892670679,Consistent Performer
+389,Aditya,Nair,Technology,Infrastructure Engineer,3.27,3.2191517121263566,Consistent Performer
+390,Arjun,Kapoor,Technology,Site Reliability Engineer,3.12,3.2172533975642055,Consistent Performer
+391,Rohan,Rao,Technology,QA Engineer,2.88,2.965981012293487,Needs Improvement
+392,Karthik,Singh,Technology,Automation Test Engineer,3.54,3.4770550639737925,Consistent Performer
+393,Nikhil,Gupta,Technology,Manual Test Engineer,3.17,3.22314213329901,Consistent Performer
+394,Rahul,Mishra,Technology,Performance Test Engineer,3.21,3.2194715237753373,Consistent Performer
+395,Vikram,Shetty,Technology,Security Test Engineer,3.24,3.2245879948458027,Consistent Performer
+396,Sanjay,Bose,Technology,Cyber Security Analyst,3.2,3.2226735188719173,Consistent Performer
+397,Ananya,Sharma,Technology,SOC Analyst,2.99,2.9678882376224296,Needs Improvement
+398,Diya,Iyer,Technology,Information Security Analyst,3.22,3.220848993356038,Consistent Performer
+399,Myra,Nair,Technology,IAM Analyst,3.12,3.225599022107083,Consistent Performer
+400,Sara,Kapoor,Technology,GRC Analyst,3.17,3.2213625876925454,Consistent Performer
+401,Riya,Rao,Technology,Network Security Engineer,3.61,3.491993418130185,Consistent Performer
+402,Priya,Singh,Technology,Cloud Security Engineer,2.86,2.962540254599965,Needs Improvement
+403,Neha,Gupta,Technology,Application Security Engineer,3.17,3.2177475196061045,Consistent Performer
+404,Kavya,Mishra,Technology,Database Administrator,3.2,3.2242698433186714,Consistent Performer
+405,Meera,Shetty,Technology,System Administrator,3.21,3.2212243464422503,Consistent Performer
+406,Sneha,Bose,Technology,Linux Administrator,3.43,3.2290932350405313,Consistent Performer
+407,Aarav,Sharma,Technology,Windows Administrator,3.32,3.225314853525269,Consistent Performer
+408,Vivaan,Iyer,Technology,Network Engineer,3.24,3.2268106566253767,Consistent Performer
+409,Aditya,Nair,Operations,IT Support Engineer,3.27,3.2220683139555546,Consistent Performer
+410,Arjun,Kapoor,Operations,Technical Support Engineer,3.27,3.223747338215372,Consistent Performer
+411,Rohan,Rao,Technology,Service Desk Analyst,3.0,3.2228567400316273,Consistent Performer
+412,Karthik,Singh,Delivery,PMO Analyst,3.08,3.2326056955830196,Consistent Performer
+413,Nikhil,Gupta,Technology,Technical Consultant,3.22,3.2223626179897282,Consistent Performer
+414,Rahul,Mishra,Technology,Functional Consultant,3.08,3.2303231171678646,Consistent Performer
+415,Vikram,Shetty,Delivery,Delivery Analyst,3.0,3.220096200986308,Consistent Performer
+416,Sanjay,Bose,Technology,Operations Analyst,3.38,3.2290003997751078,Consistent Performer
+417,Ananya,Sharma,Technology,Customer Success Specialist,2.87,2.9674475708204566,Needs Improvement
+418,Diya,Iyer,Technology,Client Relationship Executive,3.03,3.225132421614847,Consistent Performer
+419,Myra,Nair,Human Resources,HR Executive,3.17,3.2215174257908554,Consistent Performer
+420,Sara,Kapoor,Human Resources,Talent Acquisition Specialist,2.91,2.9590484910376533,Needs Improvement
+421,Riya,Rao,Finance,Payroll Executive,3.27,3.224002697660329,Consistent Performer
+422,Priya,Singh,Finance,Finance Executive,3.12,3.219399820926371,Consistent Performer
+423,Neha,Gupta,Finance,Accountant,3.12,3.2244246814169815,Consistent Performer
+424,Kavya,Mishra,Procurement,Procurement Executive,3.24,3.219821804683023,Consistent Performer
+425,Meera,Shetty,Governance,Compliance Analyst,3.1,3.2244963842659478,Consistent Performer
+426,Sneha,Bose,Governance,Risk Analyst,3.15,3.22140713216568,Consistent Performer
+427,Aarav,Sharma,Marketing,Marketing Executive,3.1,3.2317812003643236,Consistent Performer
+428,Vivaan,Iyer,Marketing,Digital Marketing Specialist,2.96,2.971419308947789,Needs Improvement
+429,Aditya,Nair,Sales,Sales Executive,3.39,3.2299088194924357,Consistent Performer
+430,Arjun,Kapoor,Sales,Business Development Executive,3.24,3.226086682753327,Consistent Performer
+431,Rohan,Rao,Operations,Transport Executive,2.99,2.97052066150899,Needs Improvement
+432,Karthik,Singh,Operations,Fleet Coordinator,3.36,3.2222150305363613,Consistent Performer
+433,Nikhil,Gupta,Operations,Logistics Executive,3.22,3.224427130788118,Consistent Performer
+434,Rahul,Mishra,Operations,Supply Chain Analyst,3.22,3.231423668811695,Consistent Performer
+435,Vikram,Shetty,Operations,Warehouse Executive,3.31,3.2171893807964627,Consistent Performer
+436,Sanjay,Bose,Operations,Dispatch Coordinator,3.09,3.2234530341811984,Consistent Performer
+437,Ananya,Sharma,Operations,Freight Coordinator,3.05,3.2181334342201335,Consistent Performer
+438,Diya,Iyer,Operations,Shipping Executive,3.32,3.222425410071903,Consistent Performer
+439,Myra,Nair,Technology,Operations Coordinator,3.39,3.2186308671449066,Consistent Performer
+440,Sara,Kapoor,Technology,Trainee,3.08,3.192630256668934,Consistent Performer
+441,Riya,Rao,Technology,Graduate Engineer Trainee,3.21,3.188943485733527,Consistent Performer
+442,Priya,Singh,Technology,Management Trainee,3.09,3.1966729083959446,Consistent Performer
+443,Neha,Gupta,Technology,Junior Software Engineer,3.16,3.1964276844033477,Consistent Performer
+444,Kavya,Mishra,Technology,Junior Frontend Developer,2.95,2.9458605899593575,Needs Improvement
+445,Meera,Shetty,Technology,Junior Backend Developer,2.73,2.936716839324328,Needs Improvement
+446,Sneha,Bose,Technology,Junior Full Stack Developer,3.25,3.199902851117644,Consistent Performer
+447,Aarav,Sharma,Technology,Junior Mobile App Developer,3.17,3.193188830914856,Consistent Performer
+448,Vivaan,Iyer,Technology,Junior API Developer,3.0,3.1895020599794495,Consistent Performer
+449,Aditya,Nair,Technology,Junior Integration Developer,3.26,3.198060077992725,Consistent Performer
+450,Arjun,Kapoor,Operations,Junior Application Support Engineer,3.14,3.1879086109792887,Consistent Performer
+451,Rohan,Rao,Technology,Junior Data Engineer,3.0,3.194032798428161,Consistent Performer
+452,Karthik,Singh,Technology,Junior Data Analyst,3.2,3.1914494545831773,Consistent Performer
+453,Nikhil,Gupta,Technology,Junior Business Analyst,3.34,3.19830652667089,Consistent Performer
+454,Rahul,Mishra,Product,Junior Product Analyst,2.94,2.9349928351550956,Needs Improvement
+455,Vikram,Shetty,Technology,Junior BI Developer,3.45,3.194876765941465,Consistent Performer
+456,Sanjay,Bose,Operations,Junior Reporting Analyst,2.81,2.9329372331234973,Needs Improvement
+457,Ananya,Sharma,Technology,Junior AI/ML Engineer,2.99,2.939292497088088,Needs Improvement
+458,Diya,Iyer,Technology,Junior DevOps Engineer,3.07,3.1969773478824783,Consistent Performer
+459,Myra,Nair,Technology,Junior Cloud Engineer,3.02,3.1969116709928866,Consistent Performer
+460,Sara,Kapoor,Technology,Junior Platform Engineer,3.2,3.195244432946454,Consistent Performer
+461,Riya,Rao,Technology,Junior QA Engineer,3.14,3.1944458714180213,Consistent Performer
+462,Priya,Singh,Technology,Junior Automation Test Engineer,3.1,3.193188830914856,Consistent Performer
+463,Neha,Gupta,Technology,Junior Manual Test Engineer,3.37,3.19119890577285,Consistent Performer
+464,Kavya,Mishra,Technology,Junior Cyber Security Analyst,2.94,2.9435674500163858,Needs Improvement
+465,Meera,Shetty,Technology,Junior SOC Analyst,3.2,3.1860722992500246,Consistent Performer
+466,Sneha,Bose,Technology,Junior Information Security Analyst,3.43,3.191603067995919,Consistent Performer
+467,Aarav,Sharma,Technology,Junior IAM Analyst,2.98,2.9308107174922213,Needs Improvement
+468,Vivaan,Iyer,Technology,Junior GRC Analyst,3.19,3.193307599870543,Consistent Performer
+469,Aditya,Nair,Technology,Junior Database Administrator,2.88,2.9320571964675697,Needs Improvement
+470,Arjun,Kapoor,Technology,Junior System Administrator,3.05,3.194096025946616,Consistent Performer
+471,Rohan,Rao,Technology,Junior Linux Administrator,3.05,3.189584759792513,Consistent Performer
+472,Karthik,Singh,Technology,Junior Windows Administrator,3.03,3.1949323073786973,Consistent Performer
+473,Nikhil,Gupta,Technology,Junior Network Engineer,3.05,3.1962444632436373,Consistent Performer
+474,Rahul,Mishra,Operations,Junior IT Support Engineer,3.05,3.2039738859060547,Consistent Performer
+475,Vikram,Shetty,Operations,Junior Technical Support Engineer,3.14,3.194646914111315,Consistent Performer
+476,Sanjay,Bose,Technology,Junior Service Desk Analyst,3.06,3.20054412517663,Consistent Performer
+477,Ananya,Sharma,Delivery,Junior PMO Analyst,3.22,3.19218111453645,Consistent Performer
+478,Diya,Iyer,Technology,Junior Technical Consultant,2.93,2.9311139322931865,Needs Improvement
+479,Myra,Nair,Technology,Junior Functional Consultant,2.91,2.939715705530309,Needs Improvement
+480,Sara,Kapoor,Technology,Junior Operations Analyst,2.94,2.934654775897075,Needs Improvement
+481,Riya,Rao,Human Resources,Junior HR Executive,2.88,2.937799569434574,Needs Improvement
+482,Priya,Singh,Human Resources,Junior Talent Acquisition Executive,3.27,3.1888802582150717,Consistent Performer
+483,Neha,Gupta,Finance,Junior Payroll Executive,2.94,2.9357439674029764,Needs Improvement
+484,Kavya,Mishra,Finance,Junior Finance Executive,2.87,2.9321050518235783,Needs Improvement
+485,Meera,Shetty,Finance,Junior Accountant,2.98,2.9429533343332315,Needs Improvement
+486,Sneha,Bose,Procurement,Junior Procurement Executive,3.23,3.189907446888087,Consistent Performer
+487,Aarav,Sharma,Marketing,Junior Marketing Executive,2.96,2.941312029977063,Needs Improvement
+488,Vivaan,Iyer,Marketing,Junior Digital Marketing Executive,3.01,3.189273858910324,Consistent Performer
+489,Aditya,Nair,Sales,Junior Sales Executive,3.22,3.1959955651943353,Consistent Performer
+490,Arjun,Kapoor,Sales,Junior Business Development Executive,3.19,3.1934559765731985,Consistent Performer
+491,Rohan,Rao,Operations,Junior Transport Executive,2.99,2.9446335832786175,Needs Improvement
+492,Karthik,Singh,Operations,Junior Logistics Executive,3.06,3.189978360487765,Consistent Performer
+493,Nikhil,Gupta,Operations,Junior Supply Chain Analyst,3.05,3.1873471612867728,Consistent Performer
+494,Rahul,Mishra,Operations,Junior Warehouse Executive,2.93,2.9338006729314103,Needs Improvement
+495,Vikram,Shetty,Operations,Junior Dispatch Coordinator,3.08,3.187769145043425,Consistent Performer
+496,Sanjay,Bose,Technology,Junior Operations Coordinator,3.17,3.1932520584333113,Consistent Performer

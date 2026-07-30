@@ -1,0 +1,13 @@
+from src.hitl.workflow import HITLWorkflow
+
+workflow = HITLWorkflow()
+
+result = workflow.execute(
+    employee_id=101,
+    prediction="High Performer",
+    reviewer="Manager1",
+    decision="Approved",
+    comments="Excellent performance"
+)
+
+print(result)

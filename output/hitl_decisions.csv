@@ -1,0 +1,4 @@
+review_id,employee_id,employee_name,department,predicted_score,prediction_category,reviewer,decision,comments,review_time
+20260726185442926202,218,Diya Iyer,Technology,3.308965354727994,Consistent Performer,Karthik Singh,Approved,All looks good,2026-07-26 18:54:42.926202
+20260726190057617848,224,Kavya Mishra,Technology,3.307801575565709,Consistent Performer,Karthik Singh,Approved,"I agree. As suggested, Hours need to be logged regularly without fail in system and attendance is a issue",2026-07-26 19:00:57.617848
+20260730002048293334,20,Sara Kapoor,Delivery,4.137124902125916,High Performer,Christy Kiran,Rejected,Rejecting the AI Recommendation,2026-07-30 00:20:48.293334
