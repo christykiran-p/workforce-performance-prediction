@@ -1,4 +1,4 @@
-# 🚀 AI Powered Workforce Performance Prediction & Intelligence Platform
+# AI Powered Workforce Performance Prediction & Intelligence Platform
 
 An enterprise-grade AI-powered workforce analytics platform that combines **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Explainable AI (XAI)**, and **Human-in-the-Loop (HITL)** decision intelligence to predict employee performance and generate contextual, policy-grounded recommendations.
 
@@ -6,7 +6,7 @@ An enterprise-grade AI-powered workforce analytics platform that combines **Mach
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Traditional employee performance evaluations are often manual, subjective, and reactive. This platform transforms workforce analytics into a predictive and explainable AI system by integrating data engineering, machine learning, enterprise security, and Generative AI.
 
@@ -20,24 +20,24 @@ The application enables HR teams, managers, and leadership to:
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-- 📊 Workforce Analytics Dashboard
-- 🤖 Employee Performance Prediction
-- 🧠 Explainable AI Recommendations
-- 📚 Retrieval-Augmented Generation (RAG)
-- 👨‍💼 Human-in-the-Loop (HITL) Decision Review
-- 🔒 Role-Based Access Control (RBAC)
-- 📈 Machine Learning Model Benchmarking
-- 📉 Feature Importance Analysis
-- 📑 Automated Report Generation
-- ✅ Automated Testing & Code Coverage
+- Workforce Analytics Dashboard
+- Employee Performance Prediction
+- Explainable AI Recommendations
+- Retrieval-Augmented Generation (RAG)
+- Human-in-the-Loop (HITL) Decision Review
+- Role-Based Access Control (RBAC)
+- Machine Learning Model Benchmarking
+- Feature Importance Analysis
+- Automated Report Generation
+- Automated Testing & Code Coverage
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
-```
+```text
                       MySQL Database
                              │
                              ▼
@@ -78,9 +78,9 @@ The application enables HR teams, managers, and leadership to:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
-```
+```text
 workforce-performance-prediction/
 │
 ├── app/
@@ -116,7 +116,7 @@ workforce-performance-prediction/
 
 ---
 
-# ⚙️ Technology Stack
+# Technology Stack
 
 ## Backend
 
@@ -155,7 +155,7 @@ workforce-performance-prediction/
 
 ---
 
-# 🔄 Workflow
+# Workflow
 
 1. Extract workforce data from MySQL.
 2. Validate database schema.
@@ -171,7 +171,7 @@ workforce-performance-prediction/
 
 ---
 
-# 🤖 Machine Learning Models
+# Machine Learning Models
 
 The platform benchmarks multiple regression algorithms:
 
@@ -185,14 +185,14 @@ The platform benchmarks multiple regression algorithms:
 
 Evaluation Metrics:
 
-- RMSE
-- MAE
-- R² Score
+- RMSE (Root Mean Squared Error)
+- MAE (Mean Absolute Error)
+- R² Score (Coefficient of Determination)
 - Cross Validation
 
 ---
 
-# 🧠 AI Capabilities
+# AI Capabilities
 
 The AI layer combines:
 
@@ -205,7 +205,7 @@ to produce explainable recommendations instead of black-box predictions.
 
 ---
 
-# 🔐 Security
+# Security
 
 The platform includes:
 
@@ -224,7 +224,7 @@ Supported Roles:
 
 ---
 
-# 🧪 Testing
+# Testing
 
 Automated testing covers:
 
@@ -250,13 +250,12 @@ pytest --cov=src
 
 ---
 
-# 🚀 Installation
+# Installation
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/christykiran-p/workforce-performance-prediction.git
-
 cd workforce-performance-prediction
 ```
 
@@ -294,20 +293,20 @@ streamlit run app/main.py
 
 ---
 
-# 📚 Documentation
+# Documentation
 
-- 📖 MCA Dissertation
-- 📘 Project Tutorial
-- 🏗️ Architecture & Mermaid Diagrams
+- MCA Major Project Dissertation
+- Workforce Performance Prediction Tutorial
+- System Architecture & Mermaid Diagrams
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - Agentic AI Workflows (LangGraph)
 - Context Engineering
 - Multi-Agent Collaboration
-- Cloud Deployment (AWS / Azure / GCP)
+- Cloud Deployment (AWS, Azure, GCP)
 - Kubernetes
 - CI/CD Pipeline
 - Model Monitoring
@@ -316,16 +315,16 @@ streamlit run app/main.py
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Christy Kiran P**
 
-**Master of Computer Applications (Artificial Intelligence)**
+Master of Computer Applications (Artificial Intelligence)
 
-AI Product Management | Machine Learning | Generative AI | RAG | Explainable AI | Workforce Analytics
+AI Product Management | Machine Learning | Generative AI | Retrieval-Augmented Generation (RAG) | Explainable AI | Workforce Analytics
 
 GitHub: https://github.com/christykiran-p
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star.
+If you found this project useful, consider giving it a star.
